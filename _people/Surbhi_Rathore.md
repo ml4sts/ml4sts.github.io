@@ -1,7 +1,7 @@
 ---
 layout: page
-name: {Surbhi Rathore}
-role: {Graduate Research Assistant}
+name: Surbhi Rathore
+role: Graduate Research Assistant
 importance: 7
 status: active
 github: surbhir08
