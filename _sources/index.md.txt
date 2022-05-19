@@ -4,7 +4,7 @@ We study how ML works for science technology and society, This means we apply da
 
 ## News
 
-See the [blog archives](news.md) for a more complete list.
+See the [news page](news.md) for a more complete list.
 
 ```{postlist}
 :date: "%Y-%m-%d"
