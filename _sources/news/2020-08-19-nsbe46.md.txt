@@ -1,0 +1,9 @@
+---
+date: 2020-08-19 
+inline: false
+---
+
+
+# Attending NSBE
+
+Professor Brown is attending the National Society of Black Engineers Conference this week. She is teaching a [Data Carpentry Workshop in Python](https://brownsarahm.github.io/2020-08-19-nsbe/) with other members of the Carpentries.

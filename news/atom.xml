@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>https://ml4sts.com</id>
+  <title>  The Machine Learning for Socio-Technical Systems Lab at University of Rhode Island</title>
+  <updated>2022-05-19T20:48:06.910336+00:00</updated>
+  <link href="https://ml4sts.com"/>
+  <link href="https://ml4sts.com/news/atom.xml" rel="self"/>
+  <generator uri="https://ablog.readthedocs.org/" version="0.10.25">ABlog</generator>
+  <entry>
+    <id>https://ml4sts.com/news/2021-08-16-eaamo/</id>
+    <title>New Paper Accepted to EAAMO’21</title>
+    <updated>2021-08-16T00:00:00+00:00</updated>
+    <content type="html">&lt;div class="ablog-post-excerpt docutils container"&gt;
+&lt;p&gt;A paper with the Boykin lab at Brown University was accepted to the  inaugural
+ACM Conference on Equity and Access in Algorithms, Mechanisms, and Optimization.
+It’s availabe open access on &lt;a class="reference external" href="https://dl.acm.org/doi/10.1145/3465416.3483302"&gt;ACM DL&lt;/a&gt;
+It’s an extension of a previous workshop paper, “Opportunities for a More Interdisciplinary Approach to Perceptions of Fairness in Machine Learning”&lt;/p&gt;
+&lt;/div&gt;
+</content>
+    <link href="https://ml4sts.com/news/2021-08-16-eaamo/" rel="alternate"/>
+    <summary>A paper with the Boykin lab at Brown University was accepted to the  inaugural
+ACM Conference on Equity and Access in Algorithms, Mechanisms, and Optimization.
+It’s availabe open access on ACM DL
+It’s an extension of a previous workshop paper, “Opportunities for a More Interdisciplinary Approach to Perceptions of Fairness in Machine Learning”</summary>
+    <published>2021-08-16T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://ml4sts.com/news/2021-08-23-td-stem-academy/</id>
+    <title>TD STEM Academy Workshop</title>
+    <updated>2021-08-23T00:00:00+00:00</updated>
+    <content type="html">&lt;div class="ablog-post-excerpt docutils container"&gt;
+&lt;p&gt;Professor Brown and incoming Graduate student Emmely Trejo Alvarez are hosting
+a workshop for incoming students this week to learn about AI biases by replicating
+the COMPAS analysis.  Resources are available &lt;a class="reference external" href="https://ml4sts.com/outreach-compas/"&gt;online&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+</content>
+    <link href="https://ml4sts.com/news/2021-08-23-td-stem-academy/" rel="alternate"/>
+    <summary>Professor Brown and incoming Graduate student Emmely Trejo Alvarez are hosting
+a workshop for incoming students this week to learn about AI biases by replicating
+the COMPAS analysis.  Resources are available online</summary>
+    <published>2021-08-23T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://ml4sts.com/news/2021-09-07-surbhi/</id>
+    <title>Welcome Emmely and Surbhi as the first graduate students!</title>
+    <updated>2021-09-07T00:00:00+00:00</updated>
+    <content type="html">&lt;div class="ablog-post-excerpt docutils container"&gt;
+&lt;p&gt;Emmely has continued at URI as a MS student and Surbhi has joined the lab to work on Task Fairness.&lt;/p&gt;
+&lt;/div&gt;
+</content>
+    <link href="https://ml4sts.com/news/2021-09-07-surbhi/" rel="alternate"/>
+    <summary>Emmely has continued at URI as a MS student and Surbhi has joined the lab to work on Task Fairness.</summary>
+    <published>2021-09-07T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://ml4sts.com/news/2022-01-24-sp22-ugrad/</id>
+    <title>Welcome to New Undergraduate Researchers Marie, Caroline, and CJ</title>
+    <updated>2022-01-24T00:00:00+00:00</updated>
+    <content type="html">&lt;div class="ablog-post-excerpt docutils container"&gt;
+&lt;/div&gt;
+</content>
+    <link href="https://ml4sts.com/news/2022-01-24-sp22-ugrad/" rel="alternate"/>
+    <published>2022-01-24T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://ml4sts.com/news/2022-03-23-nsbe/</id>
+    <title>Teachign Software Carpentry at NSBE</title>
+    <updated>2022-03-23T00:00:00+00:00</updated>
+    <content type="html">&lt;div class="ablog-post-excerpt docutils container"&gt;
+&lt;p&gt;Dr. Brown taught &lt;a class="reference external" href="https://brownsarahm.github.io/2022-03-23-nsbe/"&gt;sw carpentry&lt;/a&gt; at NSBE Convention &lt;a class="reference external" href="https://brownsarahm.github.io/2022-03-23-nsbe-notes/"&gt;notes from the workshop are online&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+</content>
+    <link href="https://ml4sts.com/news/2022-03-23-nsbe/" rel="alternate"/>
+    <summary>Dr. Brown taught sw carpentry at NSBE Convention notes from the workshop are online</summary>
+    <published>2022-03-23T00:00:00+00:00</published>
+  </entry>
+</feed>

@@ -1,0 +1,7 @@
+---
+date: 2022-03-23
+---
+
+# Teachign Software Carpentry at NSBE
+
+Dr. Brown taught [sw carpentry](https://brownsarahm.github.io/2022-03-23-nsbe/) at NSBE Convention [notes from the workshop are online](https://brownsarahm.github.io/2022-03-23-nsbe-notes/)

@@ -1,0 +1,703 @@
+
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>All Posts &#8212; ML4STS Lab  documentation</title>
+    
+  <!-- Loaded before other Sphinx assets -->
+  <link href="../_static/styles/theme.css?digest=1999514e3f237ded88cf" rel="stylesheet">
+<link href="../_static/styles/pydata-sphinx-theme.css?digest=1999514e3f237ded88cf" rel="stylesheet">
+
+    
+  <link rel="stylesheet"
+    href="../_static/vendor/fontawesome/5.13.0/css/all.min.css">
+  <link rel="preload" as="font" type="font/woff2" crossorigin
+    href="../_static/vendor/fontawesome/5.13.0/webfonts/fa-solid-900.woff2">
+  <link rel="preload" as="font" type="font/woff2" crossorigin
+    href="../_static/vendor/fontawesome/5.13.0/webfonts/fa-brands-400.woff2">
+
+    <link rel="stylesheet" type="text/css" href="../_static/pygments.css" />
+    <link rel="stylesheet" type="text/css" href="../_static/mystnb.css" />
+    <link rel="stylesheet" type="text/css" href="../_static/togglebutton.css" />
+    <link rel="stylesheet" type="text/css" href="../_static/custom.css" />
+    <link rel="stylesheet" type="text/css" href="../_static/panels-main.c949a650a448cc0ae9fd3441c0e17fb0.css" />
+    <link rel="stylesheet" type="text/css" href="../_static/panels-variables.06eb56fa6e07937060861dad626602ad.css" />
+    
+  <!-- Pre-loaded scripts that we'll load fully later -->
+  <link rel="preload" as="script" href="../_static/scripts/pydata-sphinx-theme.js?digest=1999514e3f237ded88cf">
+
+    <script data-url_root="../" id="documentation_options" src="../_static/documentation_options.js"></script>
+    <script src="../_static/jquery.js"></script>
+    <script src="../_static/underscore.js"></script>
+    <script src="../_static/doctools.js"></script>
+    <script>let toggleHintShow = 'Click to show';</script>
+    <script>let toggleHintHide = 'Click to hide';</script>
+    <script>let toggleOpenOnPrint = 'true';</script>
+    <script src="../_static/togglebutton.js"></script>
+    <script>var togglebuttonSelector = '.toggle, .admonition.dropdown, .tag_hide_input div.cell_input, .tag_hide-input div.cell_input, .tag_hide_output div.cell_output, .tag_hide-output div.cell_output, .tag_hide_cell.cell, .tag_hide-cell.cell';</script>
+    <link rel="index" title="Index" href="../genindex/" />
+    <link rel="search" title="Search" href="../search/" /> 
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="docsearch:language" content="None">
+    
+
+    <!-- Google Analytics -->
+     
+<link
+  rel="alternate"
+  type="application/atom+xml"
+  href="../news/atom.xml"
+  title=""
+/>
+ 
+<style type="text/css">
+  ul.ablog-archive {
+    list-style: none;
+    overflow: auto;
+    margin-left: 0px;
+  }
+  ul.ablog-archive li {
+    float: left;
+    margin-right: 5px;
+    font-size: 80%;
+  }
+  ul.postlist a {
+    font-style: italic;
+  }
+  ul.postlist-style-disc {
+    list-style-type: disc;
+  }
+  ul.postlist-style-none {
+    list-style-type: none;
+  }
+  ul.postlist-style-circle {
+    list-style-type: circle;
+  }
+</style>
+
+  </head>
+  <body data-spy="scroll" data-target="#bd-toc-nav" data-offset="60">
+    
+    <div class="container-fluid" id="banner"></div>
+
+    
+    <nav class="navbar navbar-light navbar-expand-lg bg-light fixed-top bd-navbar" id="navbar-main"><div class="container-xl">
+
+  <div id="navbar-start">
+    
+    
+<a class="navbar-brand" href="../">
+<p class="title">ML4STS Lab</p>
+</a>
+
+    
+  </div>
+
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbar-collapsible" aria-controls="navbar-collapsible" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+
+  
+  <div id="navbar-collapsible" class="col-lg-9 collapse navbar-collapse">
+    <div id="navbar-center" class="mr-auto">
+      
+      <div class="navbar-center-item">
+        <ul id="navbar-main-elements" class="navbar-nav">
+    <li class="toctree-l1 nav-item">
+ <a class="reference internal nav-link" href="../projects/">
+  Projects
+ </a>
+</li>
+
+<li class="toctree-l1 nav-item">
+ <a class="reference internal nav-link" href="../people/">
+  Lab Members
+ </a>
+</li>
+
+<li class="toctree-l1 nav-item">
+ <a class="reference internal nav-link" href="../outreach/">
+  Outreach
+ </a>
+</li>
+
+<li class="toctree-l1 nav-item">
+ <a class="reference internal nav-link" href="../publications/">
+  Publications
+ </a>
+</li>
+
+<li class="toctree-l1 current active nav-item">
+ <a class="current reference internal nav-link" href="#">
+  News
+ </a>
+</li>
+
+    
+</ul>
+      </div>
+      
+    </div>
+
+    <div id="navbar-end">
+      
+      <div class="navbar-end-item">
+        <form class="bd-search d-flex align-items-center" action="../search/" method="get">
+  <i class="icon fas fa-search"></i>
+  <input type="search" class="form-control" name="q" id="search-input" placeholder="Search this site..." aria-label="Search this site..." autocomplete="off" >
+</form>
+      </div>
+      
+      <div class="navbar-end-item">
+        <ul id="navbar-icon-links" class="navbar-nav" aria-label="Icon Links">
+        <li class="nav-item">
+          <a class="nav-link" href="https://github.com/ml4sts/" rel="noopener" target="_blank" title="GitHub"><span><i class="fab fa-github-square"></i></span>
+            <label class="sr-only">GitHub</label></a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="https://twitter.com/ml4sts" rel="noopener" target="_blank" title="Twitter"><span><i class="fab fa-twitter-square"></i></span>
+            <label class="sr-only">Twitter</label></a>
+        </li>
+      </ul>
+      </div>
+      
+    </div>
+  </div>
+</div>
+    </nav>
+    
+
+    <div class="container-xl">
+      <div class="row">
+          
+            
+            <!-- Only show if we have sidebars configured, else just a small margin  -->
+            <div class="col-12 col-md-3 bd-sidebar">
+              <div class="sidebar-start-items"><div class="profile-pic"><img src="../_static/img/sts.png" /></div>
+
+<div class="bio-info">
+    <div class="name">
+        Machine Learning for Socio-Technical Systems Lab at University of Rhode Island
+    </div>
+    <div class="focusareas">
+        Machine Learning | Impact | Systems
+    </div>
+
+    <div class="whatido">
+        We study how Machine Learning interacts with complex socio-technical systems that algorithms are deployed into.
+    </div>
+
+    <div class="location">
+      lab: 107 Tyler Hall
+    </div>
+    <div class="location">
+      office: 134 Tyler Hall
+    </div>
+
+    <div class="location">
+      9 Greenhouse Lane
+    </div>
+
+    <div class="location">
+      Kingston, RI 02881
+    </div>
+</div>
+<h3>
+  <a href="archive/">Archives</a>
+</h3>
+<ul>
+   
+  <li>
+    <a href="2022/">2022 (2)</a>
+  </li>
+    
+  <li>
+    <a href="2021/">2021 (8)</a>
+  </li>
+    
+  <li>
+    <a href="2020/">2020 (8)</a>
+  </li>
+   
+</ul>
+
+              </div>
+              <div class="sidebar-end-items">
+              </div>
+            </div>
+            
+          
+
+          
+          <div class="d-none d-xl-block col-xl-2 bd-toc">
+            
+          </div>
+          
+
+          
+          
+            
+          
+          <main class="col-12 col-md-9 col-xl-7 py-md-5 pl-md-5 pr-md-4 bd-content" role="main">
+              
+
+              <div>
+                
+<div class="section">
+  <h1>
+     All  Posts 
+  </h1>
+   
+
+  <div class="section ablog-post">
+    <h2 class="ablog-post-title">
+      <a href="2022-03-23-nsbe/"
+        >Teachign Software Carpentry at NSBE</a
+      >
+    </h2>
+
+    <ul class="ablog-archive">
+      <li>
+         <i class="fa fa-calendar"></i> 23 March 2022 
+      </li>
+            
+    </ul>
+    <div class="ablog-post-excerpt docutils container">
+<p>Dr. Brown taught <a class="reference external" href="https://brownsarahm.github.io/2022-03-23-nsbe/">sw carpentry</a> at NSBE Convention <a class="reference external" href="https://brownsarahm.github.io/2022-03-23-nsbe-notes/">notes from the workshop are online</a></p>
+</div>
+
+    <p class="ablog-post-expand"><a href="2022-03-23-nsbe/"><em>Read more ...</em></a></p>
+    <hr />
+  </div>
+  
+
+  <div class="section ablog-post">
+    <h2 class="ablog-post-title">
+      <a href="2022-01-24-sp22-ugrad/"
+        >Welcome to New Undergraduate Researchers Marie, Caroline, and CJ</a
+      >
+    </h2>
+
+    <ul class="ablog-archive">
+      <li>
+         <i class="fa fa-calendar"></i> 24 January 2022 
+      </li>
+            
+    </ul>
+    <div class="ablog-post-excerpt docutils container">
+</div>
+
+    <p class="ablog-post-expand"><a href="2022-01-24-sp22-ugrad/"><em>Read more ...</em></a></p>
+    <hr />
+  </div>
+  
+
+  <div class="section ablog-post">
+    <h2 class="ablog-post-title">
+      <a href="2021-09-07-surbhi/"
+        >Welcome Emmely and Surbhi as the first graduate students!</a
+      >
+    </h2>
+
+    <ul class="ablog-archive">
+      <li>
+         <i class="fa fa-calendar"></i> 07 September 2021 
+      </li>
+            
+    </ul>
+    <div class="ablog-post-excerpt docutils container">
+<p>Emmely has continued at URI as a MS student and Surbhi has joined the lab to work on Task Fairness.</p>
+</div>
+
+    <p class="ablog-post-expand"><a href="2021-09-07-surbhi/"><em>Read more ...</em></a></p>
+    <hr />
+  </div>
+  
+
+  <div class="section ablog-post">
+    <h2 class="ablog-post-title">
+      <a href="2021-08-23-td-stem-academy/"
+        >TD STEM Academy Workshop</a
+      >
+    </h2>
+
+    <ul class="ablog-archive">
+      <li>
+         <i class="fa fa-calendar"></i> 23 August 2021 
+      </li>
+            
+    </ul>
+    <div class="ablog-post-excerpt docutils container">
+<p>Professor Brown and incoming Graduate student Emmely Trejo Alvarez are hosting
+a workshop for incoming students this week to learn about AI biases by replicating
+the COMPAS analysis.  Resources are available <a class="reference external" href="https://ml4sts.com/outreach-compas/">online</a></p>
+</div>
+
+    <p class="ablog-post-expand"><a href="2021-08-23-td-stem-academy/"><em>Read more ...</em></a></p>
+    <hr />
+  </div>
+  
+
+  <div class="section ablog-post">
+    <h2 class="ablog-post-title">
+      <a href="2021-08-16-eaamo/"
+        >New Paper Accepted to EAAMO’21</a
+      >
+    </h2>
+
+    <ul class="ablog-archive">
+      <li>
+         <i class="fa fa-calendar"></i> 16 August 2021 
+      </li>
+            
+    </ul>
+    <div class="ablog-post-excerpt docutils container">
+<p>A paper with the Boykin lab at Brown University was accepted to the  inaugural
+ACM Conference on Equity and Access in Algorithms, Mechanisms, and Optimization.
+It’s availabe open access on <a class="reference external" href="https://dl.acm.org/doi/10.1145/3465416.3483302">ACM DL</a>
+It’s an extension of a previous workshop paper, “Opportunities for a More Interdisciplinary Approach to Perceptions of Fairness in Machine Learning”</p>
+</div>
+
+    <p class="ablog-post-expand"><a href="2021-08-16-eaamo/"><em>Read more ...</em></a></p>
+    <hr />
+  </div>
+  
+
+  <div class="section ablog-post">
+    <h2 class="ablog-post-title">
+      <a href="2021-08-06-ibm-award/"
+        >IBM Academic Award</a
+      >
+    </h2>
+
+    <ul class="ablog-archive">
+      <li>
+         <i class="fa fa-calendar"></i> 06 August 2021 
+      </li>
+            
+    </ul>
+    <div class="ablog-post-excerpt docutils container">
+<p>Dr. Brown Received a 2021 IBM Global University Program Academic Award to develop
+an Information Theoretic Framework for Evaluating Fairness in AI Applications.</p>
+</div>
+
+    <p class="ablog-post-expand"><a href="2021-08-06-ibm-award/"><em>Read more ...</em></a></p>
+    <hr />
+  </div>
+  
+
+  <div class="section ablog-post">
+    <h2 class="ablog-post-title">
+      <a href="2021-06-01-su21-ugrad/"
+        >Welcome New Undergraduate Researchers Patrick and Jake</a
+      >
+    </h2>
+
+    <ul class="ablog-archive">
+      <li>
+         <i class="fa fa-calendar"></i> 01 June 2021 
+      </li>
+            
+    </ul>
+    <div class="ablog-post-excerpt docutils container">
+<p>Patrick is working on the Wiggum Project and Jake received an Arts &amp; Sciences Fellowship to work on model-based comparison of fair machine learning algorithms.</p>
+</div>
+
+    <p class="ablog-post-expand"><a href="2021-06-01-su21-ugrad/"><em>Read more ...</em></a></p>
+    <hr />
+  </div>
+  
+
+  <div class="section ablog-post">
+    <h2 class="ablog-post-title">
+      <a href="2021-02-22-relative-fair-ot/"
+        >New preprint on measuring relative bias with optimal transport on arChiv!</a
+      >
+    </h2>
+
+    <ul class="ablog-archive">
+      <li>
+         <i class="fa fa-calendar"></i> 22 February 2021 
+      </li>
+            
+    </ul>
+    <div class="ablog-post-excerpt docutils container">
+<p><a class="reference external" href="https://arxiv.org/pdf/2102.10349.pdf">Preprint on Archiv</a></p>
+</div>
+
+    <p class="ablog-post-expand"><a href="2021-02-22-relative-fair-ot/"><em>Read more ...</em></a></p>
+    <hr />
+  </div>
+  
+
+  <div class="section ablog-post">
+    <h2 class="ablog-post-title">
+      <a href="2021-02-15-twiml/"
+        >Dr. Brown featured on the TWiML Podcast</a
+      >
+    </h2>
+
+    <ul class="ablog-archive">
+      <li>
+         <i class="fa fa-calendar"></i> 15 February 2021 
+      </li>
+            
+    </ul>
+    <div class="ablog-post-excerpt docutils container">
+<p>See the <a class="reference external" href="https://twimlai.com/towards-a-systems-level-approach-to-fair-ml-with-sarah-m-brown/">episode here</a></p>
+</div>
+
+    <p class="ablog-post-expand"><a href="2021-02-15-twiml/"><em>Read more ...</em></a></p>
+    <hr />
+  </div>
+  
+
+  <div class="section ablog-post">
+    <h2 class="ablog-post-title">
+      <a href="2021-01-26-sp21-ugrad/"
+        >Welcome new Undergraduate Researchers Zainab, Warith, Jacob, and Brianna!</a
+      >
+    </h2>
+
+    <ul class="ablog-archive">
+      <li>
+         <i class="fa fa-calendar"></i> 27 January 2021 
+      </li>
+            
+    </ul>
+    <div class="ablog-post-excerpt docutils container">
+</div>
+
+    <p class="ablog-post-expand"><a href="2021-01-26-sp21-ugrad/"><em>Read more ...</em></a></p>
+    <hr />
+  </div>
+  
+
+  <div class="section ablog-post">
+    <h2 class="ablog-post-title">
+      <a href="2020-11-19-urinews/"
+        >URI Arts & Science feature posted!</a
+      >
+    </h2>
+
+    <ul class="ablog-archive">
+      <li>
+         <i class="fa fa-calendar"></i> 19 November 2020 
+      </li>
+            
+    </ul>
+    <div class="ablog-post-excerpt docutils container">
+<p>See the <a class="reference external" href="https://web.uri.edu/artsci/news/ones-ohs-assistant-professor-of-computer-science-sarah-brown-on-coming-to-uri/">full article</a></p>
+</div>
+
+    <p class="ablog-post-expand"><a href="2020-11-19-urinews/"><em>Read more ...</em></a></p>
+    <hr />
+  </div>
+  
+
+  <div class="section ablog-post">
+    <h2 class="ablog-post-title">
+      <a href="2020-11-03-mlrsa/"
+        >Paper Accepted to NeurIPS Workshop on ML Retrospectives, Surveys, and Meta Analyses</a
+      >
+    </h2>
+
+    <ul class="ablog-archive">
+      <li>
+         <i class="fa fa-calendar"></i> 03 November 2020 
+      </li>
+            
+    </ul>
+    <div class="ablog-post-excerpt docutils container">
+<p>Our paper with Malik Boykin’s lab at Brown University, “Opportunities for a More Interdisciplinary Approach to Perceptions of Fairness in Machine Learning” has been accepted to the NeurIPS 2020 Workshop: ML Retrospectives, Surveys &amp; Meta-Analyses.</p>
+<p>The paper is on the <a class="reference external" href="https://ml-retrospectives.github.io/neurips2020/camera_ready/17.pdf">workshop website</a></p>
+</div>
+
+    <p class="ablog-post-expand"><a href="2020-11-03-mlrsa/"><em>Read more ...</em></a></p>
+    <hr />
+  </div>
+  
+
+  <div class="section ablog-post">
+    <h2 class="ablog-post-title">
+      <a href="2020-11-02-datasecurity/"
+        >Paper Accepted to NeurIPS Workshop Dataset Curation and Security</a
+      >
+    </h2>
+
+    <ul class="ablog-archive">
+      <li>
+         <i class="fa fa-calendar"></i> 02 November 2020 
+      </li>
+            
+    </ul>
+    <div class="ablog-post-excerpt docutils container">
+<p>Kweku Kwekir-Aggrey’s paper “Measuring Bias with Wasserstein Distance” was accepted to the NeurIPS 2020 Workshop on Workshop on Dataset Curation and Security!</p>
+</div>
+
+    <p class="ablog-post-expand"><a href="2020-11-02-datasecurity/"><em>Read more ...</em></a></p>
+    <hr />
+  </div>
+  
+
+  <div class="section ablog-post">
+    <h2 class="ablog-post-title">
+      <a href="2020-10-31-cdde/"
+        >Paper Accepted to NeurIPS Workshop on Consequential Decisions in Dynamic Environments</a
+      >
+    </h2>
+
+    <ul class="ablog-archive">
+      <li>
+         <i class="fa fa-calendar"></i> 31 October 2020 
+      </li>
+            
+    </ul>
+    <div class="ablog-post-excerpt docutils container">
+<p>Jessica Dai’s paper “Label Bias, Label Shift: Fair Machine Learning with Unreliable Labels” was accepted to the NeurIPS 2020 Workshop on Consequential Decisions in Dynamic Environments! She will also present this work at the Women in Machine Learning Workshop.</p>
+</div>
+
+    <p class="ablog-post-expand"><a href="2020-10-31-cdde/"><em>Read more ...</em></a></p>
+    <hr />
+  </div>
+  
+
+  <div class="section ablog-post">
+    <h2 class="ablog-post-title">
+      <a href="2020-10-08-FAccT-virtual/"
+        >Dr. Brown joined FAccT Organizing Committee as Virtual Experience Chair</a
+      >
+    </h2>
+
+    <ul class="ablog-archive">
+      <li>
+         <i class="fa fa-calendar"></i> 08 October 2020 
+      </li>
+            
+    </ul>
+    <div class="ablog-post-excerpt docutils container">
+</div>
+
+    <p class="ablog-post-expand"><a href="2020-10-08-FAccT-virtual/"><em>Read more ...</em></a></p>
+    <hr />
+  </div>
+  
+
+  <div class="section ablog-post">
+    <h2 class="ablog-post-title">
+      <a href="2020-09-09-emmely/"
+        >Welcome new Undergraduate Researcher Emmely!</a
+      >
+    </h2>
+
+    <ul class="ablog-archive">
+      <li>
+         <i class="fa fa-calendar"></i> 09 September 2020 
+      </li>
+            
+    </ul>
+    <div class="ablog-post-excerpt docutils container">
+</div>
+
+    <p class="ablog-post-expand"><a href="2020-09-09-emmely/"><em>Read more ...</em></a></p>
+    <hr />
+  </div>
+  
+
+  <div class="section ablog-post">
+    <h2 class="ablog-post-title">
+      <a href="2020-08-19-nsbe46/"
+        >Attending NSBE</a
+      >
+    </h2>
+
+    <ul class="ablog-archive">
+      <li>
+         <i class="fa fa-calendar"></i> 19 August 2020 
+      </li>
+            
+    </ul>
+    <div class="ablog-post-excerpt docutils container">
+<p>Professor Brown is attending the National Society of Black Engineers Conference this week. She is teaching a <a class="reference external" href="https://brownsarahm.github.io/2020-08-19-nsbe/">Data Carpentry Workshop in Python</a> with other members of the Carpentries.</p>
+</div>
+
+    <p class="ablog-post-expand"><a href="2020-08-19-nsbe46/"><em>Read more ...</em></a></p>
+    <hr />
+  </div>
+  
+
+  <div class="section ablog-post">
+    <h2 class="ablog-post-title">
+      <a href="2020-08-16-day1/"
+        >The first day</a
+      >
+    </h2>
+
+    <ul class="ablog-archive">
+      <li>
+         <i class="fa fa-calendar"></i> 16 August 2020 
+      </li>
+            
+    </ul>
+    <div class="ablog-post-excerpt docutils container">
+<p>It’s Dr. Brown’s first day at URI!</p>
+</div>
+
+    <p class="ablog-post-expand"><a href="2020-08-16-day1/"><em>Read more ...</em></a></p>
+    <hr />
+  </div>
+   
+</div>
+
+              </div>
+              
+<!-- Add a comment box underneath the page's content -->
+<!-- <script src="https://giscus.app/client.js"
+        data-repo="choldgraf/choldgraf.github.io"
+        data-repo-id="MDEwOlJlcG9zaXRvcnk1MTIzNzA1NA=="
+        data-category="Blog comments"
+        data-category-id="DIC_kwDOAw3Qvs4CAV4E"
+        data-mapping="pathname"
+        data-reactions-enabled="1"
+        data-emit-metadata="0"
+        data-theme="light"
+        data-lang="en"
+        crossorigin="anonymous"
+        async>
+</script> -->
+
+              
+              <!-- Previous / next buttons -->
+<div class='prev-next-area'>
+</div>
+              
+          </main>
+          
+
+      </div>
+    </div>
+  
+  <!-- Scripts loaded after <body> so the DOM is not blocked -->
+  <script src="../_static/scripts/pydata-sphinx-theme.js?digest=1999514e3f237ded88cf"></script>
+<footer class="footer mt-5 mt-md-0">
+  <div class="container">
+    
+    <div class="footer-item">
+      <p class="copyright">
+    &copy; Copyright 2022, Sarah M Brown.<br>
+</p>
+    </div>
+    
+    <div class="footer-item">
+      <p class="sphinx-version">
+Created using <a href="http://sphinx-doc.org/">Sphinx</a> 4.5.0.<br>
+</p>
+    </div>
+    
+  </div>
+</footer>
+  </body>
+</html>
