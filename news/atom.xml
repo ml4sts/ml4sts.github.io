@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://ml4sts.com</id>
   <title>  The Machine Learning for Socio-Technical Systems Lab at University of Rhode Island</title>
-  <updated>2022-05-19T20:59:19.451378+00:00</updated>
+  <updated>2022-05-19T22:47:25.515477+00:00</updated>
   <link href="https://ml4sts.com"/>
   <link href="https://ml4sts.com/news/atom.xml" rel="self"/>
   <generator uri="https://ablog.readthedocs.org/" version="0.10.25">ABlog</generator>
