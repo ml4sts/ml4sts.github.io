@@ -24,10 +24,34 @@ To run a live webserver that will auto-build and reload when you make changes, r
 nox -s docs-live
 ```
 
-## 2 test
+## Add a Person or Project
 
-Test
 
-## v2 test
+These pages use [sphinx panels]().  Add yourself at the top of the relevant section.
 
-Test 2 
+```
+
+:column: col-4
+
+NAME
+
+^^^
+
+Role and optional bio
++++
+
+{link-badge}`https://github.com/gh-username,"GitHub",cls=badge-dark text-white`
+
+---
+
+```
+
+Formatting notes:
+- The `^^^` separates your name/title from the body
+- `+++` separates the links from the body
+- `---` spearates people/projects
+
+For the link badges, look at others on the page to see style conventions.  
+```
+{link-badge}`http://url/to/site/,"text to display",cls=style-info`
+```
