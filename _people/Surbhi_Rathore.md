@@ -2,7 +2,7 @@
 layout: page
 name: Surbhi Rathore
 role: Graduate Research Assistant
-importance: 7
+level: graduate
 status: active
 github: surbhir08
 ---

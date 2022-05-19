@@ -1,9 +1,8 @@
 ---
-layout: profile
 name: Kweku Kwekir-Aggrey
 role: PhD affiliate at Brown
-importance: 4
 status: active
+level: graduate
 ---
 
 

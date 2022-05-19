@@ -1,9 +1,8 @@
 ---
-layout: page
 name: Jacob Lussier
 role: Undergraduate, URI
-importance: 5
-status: active
+status: alumni
+level: undergraduate
 ---
 
 

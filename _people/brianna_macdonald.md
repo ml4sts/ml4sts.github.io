@@ -1,8 +1,7 @@
 ---
-layout: profile
 name: Brianna MacDonald
 role: Undergraduate, URI
-importance: 6
+level: undergraduate
 status: alumni
 ---
 

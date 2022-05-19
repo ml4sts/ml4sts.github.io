@@ -1,28 +1,33 @@
-# ML for STS
+# ML4STS lab website
 
+This is our lab website, built with Sphinx! Based on [Chris Holdgraf's](https://github.com/choldgraf/choldgraf.github.io)
 
-This is our lab website, it uses a remote theme located at https://github.com/ml4sts/lab-site-theme-al-folio
+The easiest way to build the website is to use `nox`, which handles all of the environment generation automatically.
+To do so, follow these steps:
 
+1. Install `nox`.
 
-If you're a new member add a file to the `_people` folder, name it `yourname.md`
-note that your page on the website will then be ml4sts.com/yourname. Use the
-following as a template:
+   ```shell
+   pip install -U nox
+   ```
+2. Run `tox`
 
+   ```shell
+   nox -s docs
+   ```
+
+this should install a Sphinx environment and build the site, putting the output files in `_build/html`.
+
+To run a live webserver that will auto-build and reload when you make changes, run:
+
+```shell
+nox -s docs-live
 ```
----
-layout: profile
-name: Full Name
-role: <undergrad, grad, visitor, etc>
-importance: 7
-status: active
----
 
+## 2 test
 
-<!-- move any of the following you'd like to include into the yaml header (between the ---)
-img: /img/
-github: username
-website: http://name.com
--->
+Test
 
-<!-- bio here and delete this comment -->
-```
+## v2 test
+
+Test 2 

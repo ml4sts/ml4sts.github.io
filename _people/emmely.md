@@ -1,8 +1,7 @@
 ---
-layout: page
 name: Emmely Trejo Alvarez
-role: graduate
-importance: 2
+role: Graduate Research Assistant
+level: graduate
 status: active
 ---
 

@@ -5,8 +5,8 @@ img: /img/sarah_m_brown.png
 role: director
 github: brownsarahm
 website: http://sarahmbrown.org
-importance: 1
 status: active
+level: PI
 ---
 
 Sarah M Brown is an Assistant Professor of Computer Science and director of the ML4STS Lab at the University of Rhode Island.
