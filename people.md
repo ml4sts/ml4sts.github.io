@@ -73,12 +73,15 @@ Marie Mellor
 Undergraduate Researcher, Project Credit
 +++
 
+---
+:column: col-4
 
+Linda Tran
 
-````
+^^^
+Undergraduate Researcher, LSAMP Scholar
++++
 
-
-<!--
 ---
 :column: col-4
 
@@ -88,14 +91,14 @@ Aiden Hill
 Undergraduate Researcher
 +++
 
----
-:column: col-4
 
-Linda Tran
 
-^^^
-Undergraduate Researcher, LSAMP Scholar
-+++
+
+
+````
+
+
+<!--
 
 
  -->
