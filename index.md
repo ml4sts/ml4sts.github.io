@@ -19,5 +19,6 @@ projects
 people
 outreach
 publications
+code
 news
 ```
