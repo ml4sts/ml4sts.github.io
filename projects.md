@@ -54,6 +54,17 @@ In this project, we examine how fairness can be evaluated at the task and proble
 
 ---
 :column: col-4
+
+
+Model-Based Fairness Intervention Assessment
+^^^
+
+In this project, we are using bias models to evalute the effectiveness of different types of fair machine learning interventions.
+
++++
+
+---
+:column: col-4
 :img-top: _static/img/fairness_forensics.png
 
 Wiggum
