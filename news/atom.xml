@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://ml4sts.com</id>
   <title>  The Machine Learning for Socio-Technical Systems Lab at University of Rhode Island</title>
-  <updated>2022-06-07T21:24:58.824402+00:00</updated>
+  <updated>2022-06-23T00:37:49.779494+00:00</updated>
   <link href="https://ml4sts.com"/>
   <link href="https://ml4sts.com/news/atom.xml" rel="self"/>
   <generator uri="https://ablog.readthedocs.org/" version="0.10.25">ABlog</generator>
@@ -64,7 +64,7 @@ the COMPAS analysis.  Resources are available online</summary>
   </entry>
   <entry>
     <id>https://ml4sts.com/news/2022-03-23-nsbe/</id>
-    <title>Teachign Software Carpentry at NSBE</title>
+    <title>Teaching Software Carpentry at NSBE</title>
     <updated>2022-03-23T00:00:00+00:00</updated>
     <content type="html">&lt;div class="ablog-post-excerpt docutils container"&gt;
 &lt;p&gt;Dr. Brown taught &lt;a class="reference external" href="https://brownsarahm.github.io/2022-03-23-nsbe/"&gt;sw carpentry&lt;/a&gt; at NSBE Convention &lt;a class="reference external" href="https://brownsarahm.github.io/2022-03-23-nsbe-notes/"&gt;notes from the workshop are online&lt;/a&gt;&lt;/p&gt;
