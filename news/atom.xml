@@ -2,28 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://ml4sts.com</id>
   <title>  The Machine Learning for Socio-Technical Systems Lab at University of Rhode Island</title>
-  <updated>2022-06-23T00:37:49.779494+00:00</updated>
+  <updated>2022-06-28T11:54:56.626734+00:00</updated>
   <link href="https://ml4sts.com"/>
   <link href="https://ml4sts.com/news/atom.xml" rel="self"/>
   <generator uri="https://ablog.readthedocs.org/" version="0.10.25">ABlog</generator>
-  <entry>
-    <id>https://ml4sts.com/news/2021-08-16-eaamo/</id>
-    <title>New Paper Accepted to EAAMO’21</title>
-    <updated>2021-08-16T00:00:00+00:00</updated>
-    <content type="html">&lt;div class="ablog-post-excerpt docutils container"&gt;
-&lt;p&gt;A paper with the Boykin lab at Brown University was accepted to the  inaugural
-ACM Conference on Equity and Access in Algorithms, Mechanisms, and Optimization.
-It’s availabe open access on &lt;a class="reference external" href="https://dl.acm.org/doi/10.1145/3465416.3483302"&gt;ACM DL&lt;/a&gt;
-It’s an extension of a previous workshop paper, “Opportunities for a More Interdisciplinary Approach to Perceptions of Fairness in Machine Learning”&lt;/p&gt;
-&lt;/div&gt;
-</content>
-    <link href="https://ml4sts.com/news/2021-08-16-eaamo/" rel="alternate"/>
-    <summary>A paper with the Boykin lab at Brown University was accepted to the  inaugural
-ACM Conference on Equity and Access in Algorithms, Mechanisms, and Optimization.
-It’s availabe open access on ACM DL
-It’s an extension of a previous workshop paper, “Opportunities for a More Interdisciplinary Approach to Perceptions of Fairness in Machine Learning”</summary>
-    <published>2021-08-16T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>https://ml4sts.com/news/2021-08-23-td-stem-academy/</id>
     <title>TD STEM Academy Workshop</title>
@@ -73,5 +55,17 @@ the COMPAS analysis.  Resources are available online</summary>
     <link href="https://ml4sts.com/news/2022-03-23-nsbe/" rel="alternate"/>
     <summary>Dr. Brown taught sw carpentry at NSBE Convention notes from the workshop are online</summary>
     <published>2022-03-23T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://ml4sts.com/news/2022-06-27-kdd_eai/</id>
+    <title>Paper Accepted to 1st ACM SIGKDD Workshop on Ethical Artificial Intelligence</title>
+    <updated>2022-06-27T00:00:00+00:00</updated>
+    <content type="html">&lt;div class="ablog-post-excerpt docutils container"&gt;
+&lt;p&gt;Dr. Brown and Surbhi Rathore’s paper “Information Theoretic Framework For Evaluation of Task Level Fairness” was accepted to the 1st ACM SIGKDD Workshop on Ethical Artificial Intelligence! The paper will be presented at the EAI-KDD22 Workshop.&lt;/p&gt;
+&lt;/div&gt;
+</content>
+    <link href="https://ml4sts.com/news/2022-06-27-kdd_eai/" rel="alternate"/>
+    <summary>Dr. Brown and Surbhi Rathore’s paper “Information Theoretic Framework For Evaluation of Task Level Fairness” was accepted to the 1st ACM SIGKDD Workshop on Ethical Artificial Intelligence! The paper will be presented at the EAI-KDD22 Workshop.</summary>
+    <published>2022-06-27T00:00:00+00:00</published>
   </entry>
 </feed>
