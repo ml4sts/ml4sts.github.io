@@ -65,7 +65,7 @@ html_theme_options = {
 }
 
 # html_favicon = "_static/favicon.ico"
-
+html_title = project
 # Add any paths that contain custom static files (such as style sheets) here,
 # relative to this directory. They are copied after the builtin static files,
 # so a file named "default.css" will overwrite the builtin "default.css".
@@ -98,8 +98,19 @@ panels_add_bootstrap_css = False
 
 # MyST config
 myst_enable_extensions = [
-    "deflist",
+    "amsmath",
     "colon_fence",
+    "deflist",
+    "dollarmath",
+    "fieldlist",
+    "html_admonition",
+    "html_image",
+    "linkify",
+    "replacements",
+    "smartquotes",
+    "strikethrough",
+    "substitution",
+    "tasklist",
 ]
 
 # Bibliography and citations
