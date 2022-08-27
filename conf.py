@@ -59,9 +59,20 @@ html_theme = 'pydata_sphinx_theme'
 html_theme_options = {
   "github_url": "https://github.com/ml4sts/",
   "twitter_url": "https://twitter.com/ml4sts",
-  "search_bar_text": "Search this site...",
+  "search_bar_text": "Search",
   "google_analytics_id": "",
   "navbar_end": ["search-field.html", "navbar-icon-links"],
+  "footer_items":["copyright",  "sphinx-version",],
+  "use_edit_page_button": True,
+}
+
+
+html_context = {
+    # "github_url": "https://github.com", # or your GitHub Enterprise interprise
+    "github_user": "ml4sts",
+    "github_repo": "ml4sts.github.io",
+    "github_version": "main",
+    "doc_path": ".",
 }
 
 # html_favicon = "_static/favicon.ico"

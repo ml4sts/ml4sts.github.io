@@ -6,7 +6,7 @@ We study how ML works for science technology and society, This means we apply da
 
 See the [news page](news.md) for a more complete list.
 
-```{postlist}
+```{postlist} 5
 :date: "%Y-%m-%d"
 :format: "{date} : {title}"
 :excerpts:
