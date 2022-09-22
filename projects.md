@@ -52,6 +52,8 @@ In this project, we examine how fairness can be evaluated at the task and proble
 
 +++
 
+{link-badge}`https://charliezhaoyinpeng.github.io/EAI-KDD22/camera_ready/information.pdf,"paper",cls=badge-primary text-white`
+
 ---
 :column: col-4
 
