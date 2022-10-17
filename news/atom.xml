@@ -2,48 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://ml4sts.com</id>
   <title>  The Machine Learning for Socio-Technical Systems Lab at University of Rhode Island</title>
-  <updated>2022-10-04T19:04:16.517741+00:00</updated>
+  <updated>2022-10-17T13:27:43.121105+00:00</updated>
   <link href="https://ml4sts.com"/>
   <link href="https://ml4sts.com/news/atom.xml" rel="self"/>
   <generator uri="https://ablog.readthedocs.org/" version="0.10.29">ABlog</generator>
-  <entry>
-    <id>https://ml4sts.com/news/2021-08-23-td-stem-academy/</id>
-    <title>TD STEM Academy Workshop</title>
-    <updated>2021-08-23T00:00:00+00:00</updated>
-    <content type="html">&lt;div class="ablog-post-excerpt docutils container"&gt;
-&lt;p&gt;Professor Brown and incoming Graduate student Emmely Trejo Alvarez are hosting
-a workshop for incoming students this week to learn about AI biases by replicating
-the COMPAS analysis.  Resources are available &lt;a class="reference external" href="https://ml4sts.com/outreach-compas/"&gt;online&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;
-</content>
-    <link href="https://ml4sts.com/news/2021-08-23-td-stem-academy/" rel="alternate"/>
-    <summary>Professor Brown and incoming Graduate student Emmely Trejo Alvarez are hosting
-a workshop for incoming students this week to learn about AI biases by replicating
-the COMPAS analysis.  Resources are available online</summary>
-    <published>2021-08-23T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://ml4sts.com/news/2021-09-07-surbhi/</id>
-    <title>Welcome Emmely and Surbhi as the first graduate students!</title>
-    <updated>2021-09-07T00:00:00+00:00</updated>
-    <content type="html">&lt;div class="ablog-post-excerpt docutils container"&gt;
-&lt;p&gt;Emmely has continued at URI as a MS student and Surbhi has joined the lab to work on Task Fairness.&lt;/p&gt;
-&lt;/div&gt;
-</content>
-    <link href="https://ml4sts.com/news/2021-09-07-surbhi/" rel="alternate"/>
-    <summary>Emmely has continued at URI as a MS student and Surbhi has joined the lab to work on Task Fairness.</summary>
-    <published>2021-09-07T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://ml4sts.com/news/2022-01-24-sp22-ugrad/</id>
-    <title>Welcome to New Undergraduate Researchers Marie, Caroline, and CJ</title>
-    <updated>2022-01-24T00:00:00+00:00</updated>
-    <content type="html">&lt;div class="ablog-post-excerpt docutils container"&gt;
-&lt;/div&gt;
-</content>
-    <link href="https://ml4sts.com/news/2022-01-24-sp22-ugrad/" rel="alternate"/>
-    <published>2022-01-24T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>https://ml4sts.com/news/2022-03-23-nsbe/</id>
     <title>Teaching Software Carpentry at NSBE</title>
@@ -55,6 +17,41 @@ the COMPAS analysis.  Resources are available online</summary>
     <link href="https://ml4sts.com/news/2022-03-23-nsbe/" rel="alternate"/>
     <summary>Dr. Brown taught sw carpentry at NSBE Convention notes from the workshop are online</summary>
     <published>2022-03-23T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://ml4sts.com/news/2022-05-21-congrats/</id>
+    <title>Congrats to recent graduates Caroline and CJ!</title>
+    <updated>2022-05-21T00:00:00+00:00</updated>
+    <content type="html">&lt;div class="ablog-post-excerpt docutils container"&gt;
+&lt;/div&gt;
+</content>
+    <link href="https://ml4sts.com/news/2022-05-21-congrats/" rel="alternate"/>
+    <published>2022-05-21T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://ml4sts.com/news/2022-06-06-su22-ugrad/</id>
+    <title>Welcome new undergraduate RAs Linda, Justin, and Aiden</title>
+    <updated>2022-06-06T00:00:00+00:00</updated>
+    <content type="html">&lt;div class="ablog-post-excerpt docutils container"&gt;
+&lt;p&gt;Linda will join our collaboration with the Boykin lab and be developing ecologically valid stimuli for assessing people’s judgements of ML algorithms.&lt;/p&gt;
+&lt;p&gt;Aiden and Justin will be evaluating performance of fair machine learning models on data with known biases. Marie will continue working on the experiment tools to support this work.&lt;/p&gt;
+&lt;/div&gt;
+</content>
+    <link href="https://ml4sts.com/news/2022-06-06-su22-ugrad/" rel="alternate"/>
+    <summary>Linda will join our collaboration with the Boykin lab and be developing ecologically valid stimuli for assessing people’s judgements of ML algorithms.Aiden and Justin will be evaluating performance of fair machine learning models on data with known biases. Marie will continue working on the experiment tools to support this work.</summary>
+    <published>2022-06-06T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://ml4sts.com/news/2022-06-10-surbhi-proposal/</id>
+    <title>Surbhi Rathore has passed her MS Thesis Proposal</title>
+    <updated>2022-06-10T00:00:00+00:00</updated>
+    <content type="html">&lt;div class="ablog-post-excerpt docutils container"&gt;
+&lt;p&gt;Her thesis is derived from our Task Fairness Project and focuses on feature selection.&lt;/p&gt;
+&lt;/div&gt;
+</content>
+    <link href="https://ml4sts.com/news/2022-06-10-surbhi-proposal/" rel="alternate"/>
+    <summary>Her thesis is derived from our Task Fairness Project and focuses on feature selection.</summary>
+    <published>2022-06-10T00:00:00+00:00</published>
   </entry>
   <entry>
     <id>https://ml4sts.com/news/2022-06-27-kdd_eai/</id>

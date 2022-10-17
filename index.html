@@ -20,8 +20,8 @@
   </script>
   
   <!-- Loaded before other Sphinx assets -->
-  <link href="_static/styles/theme.css?digest=9b1a4fa89bdd0e95b23b" rel="stylesheet">
-<link href="_static/styles/pydata-sphinx-theme.css?digest=9b1a4fa89bdd0e95b23b" rel="stylesheet">
+  <link href="_static/styles/theme.css?digest=1e1de1a1873e13ef5536" rel="stylesheet">
+<link href="_static/styles/pydata-sphinx-theme.css?digest=1e1de1a1873e13ef5536" rel="stylesheet">
 
   
   <link rel="stylesheet"
@@ -30,6 +30,8 @@
     href="_static/vendor/fontawesome/6.1.2/webfonts/fa-solid-900.woff2">
   <link rel="preload" as="font" type="font/woff2" crossorigin
     href="_static/vendor/fontawesome/6.1.2/webfonts/fa-brands-400.woff2">
+  <link rel="preload" as="font" type="font/woff2" crossorigin
+    href="_static/vendor/fontawesome/6.1.2/webfonts/fa-regular-400.woff2">
 
     <link rel="stylesheet" type="text/css" href="_static/pygments.css" />
     <link rel="stylesheet" type="text/css" href="_static/mystnb.4510f1fc1dee50b3e5859aac5469c37c29e427902b24a333a5f9fcb2f0b3ac41.css" />
@@ -38,7 +40,7 @@
     <link rel="stylesheet" type="text/css" href="_static/panels-variables.06eb56fa6e07937060861dad626602ad.css" />
   
   <!-- Pre-loaded scripts that we'll load fully later -->
-  <link rel="preload" as="script" href="_static/scripts/pydata-sphinx-theme.js?digest=9b1a4fa89bdd0e95b23b">
+  <link rel="preload" as="script" href="_static/scripts/pydata-sphinx-theme.js?digest=1e1de1a1873e13ef5536">
 
     <script data-url_root="#" id="documentation_options" src="_static/documentation_options.js"></script>
     <script src="_static/jquery.js"></script>
@@ -101,8 +103,8 @@
     <div class="search-button__search-container">
       
 <form class="bd-search d-flex align-items-center" action="search/" method="get">
-  <i class="icon fas fa-search"></i>
-  <input type="search" class="form-control" name="q" id="search-input" placeholder="Search this site..." aria-label="Search this site..." autocomplete="off" autocorrect="off" autocapitalize="off" spellcheck="false">
+  <i class="fa-solid fa-magnifying-glass"></i>
+  <input type="search" class="form-control" name="q" id="search-input" placeholder="Search" aria-label="Search" autocomplete="off" autocorrect="off" autocapitalize="off" spellcheck="false">
   <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd>K</kbd></span>
 </form>
     </div>
@@ -111,7 +113,7 @@
   
   <nav class="bd-header navbar navbar-expand-lg bd-navbar" id="navbar-main"><div class="bd-header__inner bd-page-width">
   <label class="sidebar-toggle primary-toggle" for="__primary">
-      <span class="fas fa-bars"></span>
+      <span class="fa-solid fa-bars"></span>
   </label>
   <div id="navbar-start">
     
@@ -206,16 +208,16 @@
     <div id="navbar-end">
       <div class="navbar-end-item navbar-end__search-button-container">
         
-<button class="btn btn-sm navbar-btn search-button search-button__button" title="Search">
-  <i class="fas fa-search"></i>
+<button class="btn btn-sm navbar-btn search-button search-button__button" title="Search" data-toggle="tooltip">
+  <i class="fa-solid fa-magnifying-glass"></i>
 </button>
       </div>
       
       <div class="navbar-end-item">
         
 <form class="bd-search d-flex align-items-center" action="search/" method="get">
-  <i class="icon fas fa-search"></i>
-  <input type="search" class="form-control" name="q" id="search-input" placeholder="Search this site..." aria-label="Search this site..." autocomplete="off" autocorrect="off" autocapitalize="off" spellcheck="false">
+  <i class="fa-solid fa-magnifying-glass"></i>
+  <input type="search" class="form-control" name="q" id="search-input" placeholder="Search" aria-label="Search" autocomplete="off" autocorrect="off" autocapitalize="off" spellcheck="false">
   <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd>K</kbd></span>
 </form>
       </div>
@@ -229,7 +231,8 @@
           
           
           
-          <a href="https://github.com/ml4sts/" title="GitHub" class="nav-link" rel="noopener" target="_blank"><span><i class="fab fa-github-square"></i></span>
+          
+          <a href="https://github.com/ml4sts/" title="GitHub" class="nav-link" rel="noopener" target="_blank" data-toggle="tooltip"><span><i class="fa-brands fa-square-github"></i></span>
             <label class="sr-only">GitHub</label></a>
         </li>
         <li class="nav-item">
@@ -239,7 +242,8 @@
           
           
           
-          <a href="https://twitter.com/ml4sts" title="Twitter" class="nav-link" rel="noopener" target="_blank"><span><i class="fab fa-twitter-square"></i></span>
+          
+          <a href="https://twitter.com/ml4sts" title="Twitter" class="nav-link" rel="noopener" target="_blank" data-toggle="tooltip"><span><i class="fa-brands fa-square-twitter"></i></span>
             <label class="sr-only">Twitter</label></a>
         </li>
       </ul>
@@ -251,14 +255,14 @@
 
   
   <div class="search-button-container--mobile">
-<button class="btn btn-sm navbar-btn search-button search-button__button" title="Search">
-  <i class="fas fa-search"></i>
+<button class="btn btn-sm navbar-btn search-button search-button__button" title="Search" data-toggle="tooltip">
+  <i class="fa-solid fa-magnifying-glass"></i>
 </button>
   </div>
 
   
   <label class="sidebar-toggle secondary-toggle" for="__secondary">
-      <span class="fas fa-outdent"></span>
+      <span class="fa-solid fa-outdent"></span>
   </label>
   
 
@@ -347,8 +351,8 @@
       <div class="navbar-end-item">
         
 <form class="bd-search d-flex align-items-center" action="search/" method="get">
-  <i class="icon fas fa-search"></i>
-  <input type="search" class="form-control" name="q" id="search-input" placeholder="Search this site..." aria-label="Search this site..." autocomplete="off" autocorrect="off" autocapitalize="off" spellcheck="false">
+  <i class="fa-solid fa-magnifying-glass"></i>
+  <input type="search" class="form-control" name="q" id="search-input" placeholder="Search" aria-label="Search" autocomplete="off" autocorrect="off" autocapitalize="off" spellcheck="false">
   <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd>K</kbd></span>
 </form>
       </div>
@@ -362,7 +366,8 @@
           
           
           
-          <a href="https://github.com/ml4sts/" title="GitHub" class="nav-link" rel="noopener" target="_blank"><span><i class="fab fa-github-square"></i></span>
+          
+          <a href="https://github.com/ml4sts/" title="GitHub" class="nav-link" rel="noopener" target="_blank" data-toggle="tooltip"><span><i class="fa-brands fa-square-github"></i></span>
             <label class="sr-only">GitHub</label></a>
         </li>
         <li class="nav-item">
@@ -372,7 +377,8 @@
           
           
           
-          <a href="https://twitter.com/ml4sts" title="Twitter" class="nav-link" rel="noopener" target="_blank"><span><i class="fab fa-twitter-square"></i></span>
+          
+          <a href="https://twitter.com/ml4sts" title="Twitter" class="nav-link" rel="noopener" target="_blank" data-toggle="tooltip"><span><i class="fa-brands fa-square-twitter"></i></span>
             <label class="sr-only">Twitter</label></a>
         </li>
       </ul>
@@ -447,58 +453,16 @@
 <li class="ablog-post"><p class="ablog-post-title">2022-06-27 : <a class="reference internal" href="news/2022-06-27-kdd_eai/">Paper Accepted to 1st ACM SIGKDD Workshop on Ethical Artificial Intelligence</a></p>
 <p class="ablog-post-excerpt">Dr. Brown and Surbhi Rathore’s paper “Information Theoretic Framework For Evaluation of Task Level Fairness” was accepted to the 1st ACM SIGKDD Workshop on Ethical Artificial Intelligence! The paper will be presented at the EAI-KDD22 Workshop.</p>
 </li>
+<li class="ablog-post"><p class="ablog-post-title">2022-06-10 : <a class="reference internal" href="news/2022-06-10-surbhi-proposal/">Surbhi Rathore has passed her MS Thesis Proposal</a></p>
+<p class="ablog-post-excerpt">Her thesis is derived from our Task Fairness Project and focuses on feature selection.</p>
+</li>
+<li class="ablog-post"><p class="ablog-post-title">2022-06-06 : <a class="reference internal" href="news/2022-06-06-su22-ugrad/">Welcome new undergraduate RAs Linda, Justin, and Aiden</a></p>
+<p class="ablog-post-excerpt">Linda will join our collaboration with the Boykin lab and be developing ecologically valid stimuli for assessing people’s judgements of ML algorithms.</p>
+<p class="ablog-post-excerpt">Aiden and Justin will be evaluating performance of fair machine learning models on data with known biases. Marie will continue working on the experiment tools to support this work.</p>
+</li>
+<li class="ablog-post"><p class="ablog-post-title">2022-05-21 : <a class="reference internal" href="news/2022-05-21-congrats/">Congrats to recent graduates Caroline and CJ!</a></p></li>
 <li class="ablog-post"><p class="ablog-post-title">2022-03-23 : <a class="reference internal" href="news/2022-03-23-nsbe/">Teaching Software Carpentry at NSBE</a></p>
 <p class="ablog-post-excerpt">Dr. Brown taught <a class="reference external" href="https://brownsarahm.github.io/2022-03-23-nsbe/">sw carpentry</a> at NSBE Convention <a class="reference external" href="https://brownsarahm.github.io/2022-03-23-nsbe-notes/">notes from the workshop are online</a></p>
-</li>
-<li class="ablog-post"><p class="ablog-post-title">2022-01-24 : <a class="reference internal" href="news/2022-01-24-sp22-ugrad/">Welcome to New Undergraduate Researchers Marie, Caroline, and CJ</a></p></li>
-<li class="ablog-post"><p class="ablog-post-title">2021-09-07 : <a class="reference internal" href="news/2021-09-07-surbhi/">Welcome Emmely and Surbhi as the first graduate students!</a></p>
-<p class="ablog-post-excerpt">Emmely has continued at URI as a MS student and Surbhi has joined the lab to work on Task Fairness.</p>
-</li>
-<li class="ablog-post"><p class="ablog-post-title">2021-08-23 : <a class="reference internal" href="news/2021-08-23-td-stem-academy/">TD STEM Academy Workshop</a></p>
-<p class="ablog-post-excerpt">Professor Brown and incoming Graduate student Emmely Trejo Alvarez are hosting
-a workshop for incoming students this week to learn about AI biases by replicating
-the COMPAS analysis.  Resources are available <a class="reference external" href="https://ml4sts.com/outreach-compas/">online</a></p>
-</li>
-<li class="ablog-post"><p class="ablog-post-title">2021-08-16 : <a class="reference internal" href="news/2021-08-16-eaamo/">New Paper Accepted to EAAMO’21</a></p>
-<p class="ablog-post-excerpt">A paper with the Boykin lab at Brown University was accepted to the  inaugural
-ACM Conference on Equity and Access in Algorithms, Mechanisms, and Optimization.
-It’s availabe open access on <a class="reference external" href="https://dl.acm.org/doi/10.1145/3465416.3483302">ACM DL</a>
-It’s an extension of a previous workshop paper, “Opportunities for a More Interdisciplinary Approach to Perceptions of Fairness in Machine Learning”</p>
-</li>
-<li class="ablog-post"><p class="ablog-post-title">2021-08-06 : <a class="reference internal" href="news/2021-08-06-ibm-award/">IBM Academic Award</a></p>
-<p class="ablog-post-excerpt">Dr. Brown Received a 2021 IBM Global University Program Academic Award to develop
-an Information Theoretic Framework for Evaluating Fairness in AI Applications.</p>
-</li>
-<li class="ablog-post"><p class="ablog-post-title">2021-06-01 : <a class="reference internal" href="news/2021-06-01-su21-ugrad/">Welcome New Undergraduate Researchers Patrick and Jake</a></p>
-<p class="ablog-post-excerpt">Patrick is working on the Wiggum Project and Jake received an Arts &amp; Sciences Fellowship to work on model-based comparison of fair machine learning algorithms.</p>
-</li>
-<li class="ablog-post"><p class="ablog-post-title">2021-02-22 : <a class="reference internal" href="news/2021-02-22-relative-fair-ot/">New preprint on measuring relative bias with optimal transport on arChiv!</a></p>
-<p class="ablog-post-excerpt"><a class="reference external" href="https://arxiv.org/pdf/2102.10349.pdf">Preprint on Archiv</a></p>
-</li>
-<li class="ablog-post"><p class="ablog-post-title">2021-02-15 : <a class="reference internal" href="news/2021-02-15-twiml/">Dr. Brown featured on the TWiML Podcast</a></p>
-<p class="ablog-post-excerpt">See the <a class="reference external" href="https://twimlai.com/towards-a-systems-level-approach-to-fair-ml-with-sarah-m-brown/">episode here</a></p>
-</li>
-<li class="ablog-post"><p class="ablog-post-title">2021-01-27 : <a class="reference internal" href="news/2021-01-26-sp21-ugrad/">Welcome new Undergraduate Researchers Zainab, Warith, Jacob, and Brianna!</a></p></li>
-<li class="ablog-post"><p class="ablog-post-title">2020-11-19 : <a class="reference internal" href="news/2020-11-19-urinews/">URI Arts &amp; Science feature posted!</a></p>
-<p class="ablog-post-excerpt">See the <a class="reference external" href="https://web.uri.edu/artsci/news/ones-ohs-assistant-professor-of-computer-science-sarah-brown-on-coming-to-uri/">full article</a></p>
-</li>
-<li class="ablog-post"><p class="ablog-post-title">2020-11-03 : <a class="reference internal" href="news/2020-11-03-mlrsa/">Paper Accepted to NeurIPS Workshop on ML Retrospectives, Surveys, and Meta Analyses</a></p>
-<p class="ablog-post-excerpt">Our paper with Malik Boykin’s lab at Brown University, “Opportunities for a More Interdisciplinary Approach to Perceptions of Fairness in Machine Learning” has been accepted to the NeurIPS 2020 Workshop: ML Retrospectives, Surveys &amp; Meta-Analyses.</p>
-<p class="ablog-post-excerpt">The paper is on the <a class="reference external" href="https://ml-retrospectives.github.io/neurips2020/camera_ready/17.pdf">workshop website</a></p>
-</li>
-<li class="ablog-post"><p class="ablog-post-title">2020-11-02 : <a class="reference internal" href="news/2020-11-02-datasecurity/">Paper Accepted to NeurIPS Workshop Dataset Curation and Security</a></p>
-<p class="ablog-post-excerpt">Kweku Kwekir-Aggrey’s paper “Measuring Bias with Wasserstein Distance” was accepted to the NeurIPS 2020 Workshop on Workshop on Dataset Curation and Security!</p>
-</li>
-<li class="ablog-post"><p class="ablog-post-title">2020-10-31 : <a class="reference internal" href="news/2020-10-31-cdde/">Paper Accepted to NeurIPS Workshop on Consequential Decisions in Dynamic Environments</a></p>
-<p class="ablog-post-excerpt">Jessica Dai’s paper “Label Bias, Label Shift: Fair Machine Learning with Unreliable Labels” was accepted to the NeurIPS 2020 Workshop on Consequential Decisions in Dynamic Environments! She will also present this work at the Women in Machine Learning Workshop.</p>
-</li>
-<li class="ablog-post"><p class="ablog-post-title">2020-10-08 : <a class="reference internal" href="news/2020-10-08-FAccT-virtual/">Dr. Brown joined FAccT Organizing Committee as Virtual Experience Chair</a></p></li>
-<li class="ablog-post"><p class="ablog-post-title">2020-09-09 : <a class="reference internal" href="news/2020-09-09-emmely/">Welcome new Undergraduate Researcher Emmely!</a></p></li>
-<li class="ablog-post"><p class="ablog-post-title">2020-08-19 : <a class="reference internal" href="news/2020-08-19-nsbe46/">Attending NSBE</a></p>
-<p class="ablog-post-excerpt">Professor Brown is attending the National Society of Black Engineers Conference this week. She is teaching a <a class="reference external" href="https://brownsarahm.github.io/2020-08-19-nsbe/">Data Carpentry Workshop in Python</a> with other members of the Carpentries.</p>
-</li>
-<li class="ablog-post"><p class="ablog-post-title">2020-08-16 : <a class="reference internal" href="news/2020-08-16-day1/">The first day</a></p>
-<p class="ablog-post-excerpt">It’s Dr. Brown’s first day at URI!</p>
 </li>
 </ul>
 <div class="toctree-wrapper compound">
@@ -537,7 +501,7 @@ an Information Theoretic Framework for Evaluating Fairness in AI Applications.</
       <p class="prev-next-subtitle">next</p>
       <p class="prev-next-title">Projects</p>
   </div>
-  <i class="fas fa-angle-right"></i>
+  <i class="fa-solid fa-angle-right"></i>
   </a>
 </div>
             </footer>
@@ -551,7 +515,7 @@ an Information Theoretic Framework for Evaluating Fairness in AI Applications.</
 <div class="toc-item">
   
 <div class="tocsection onthispage">
-    <i class="fas fa-list"></i> On this page
+    <i class="fa-solid fa-list"></i> On this page
 </div>
 <nav id="bd-toc-nav" class="page-toc">
     <ul class="visible nav section-nav flex-column">
@@ -567,13 +531,25 @@ an Information Theoretic Framework for Evaluating Fairness in AI Applications.</
 
 <div class="toc-item">
   
+<div id="searchbox"></div>
+</div>
+
+<div class="toc-item">
+  
+
+<div class="tocsection editthispage">
+    <a href="https://github.com/ml4sts/ml4sts.github.io/edit/main/./index.md">
+        <i class="fa-solid fa-pencil"></i> Edit this page
+    </a>
+</div>
+
 </div>
 
 <div class="toc-item">
   
 <div class="tocsection sourcelink">
     <a href="_sources/index.md.txt">
-        <i class="fas fa-file-alt"></i> Show Source
+        <i class="fa-solid fa-file-lines"></i> Show Source
     </a>
 </div>
 
@@ -596,7 +572,7 @@ an Information Theoretic Framework for Evaluating Fairness in AI Applications.</
   
     
   <!-- Scripts loaded after <body> so the DOM is not blocked -->
-  <script src="_static/scripts/pydata-sphinx-theme.js?digest=9b1a4fa89bdd0e95b23b"></script>
+  <script src="_static/scripts/pydata-sphinx-theme.js?digest=1e1de1a1873e13ef5536"></script>
 
   <footer class="bd-footer"><div class="bd-footer__inner container">
   
