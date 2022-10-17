@@ -21,4 +21,5 @@ outreach
 publications
 code
 news
+join
 ```
