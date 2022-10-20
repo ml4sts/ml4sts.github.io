@@ -216,4 +216,14 @@ Undergraduate Researcher, Brown UTRA Award Recipient
 +++
 
 
+---
+:column: col-4
+
+Yemi Fasina
+^^^
+Undergraduate Researcher
+
++++
+
+
 ````
