@@ -100,7 +100,14 @@ Justin Biancamano
 Undergraduate Resarcher, Project Credit
 +++
 
+---
+:column: col-4
 
+Yemi Fasina
+^^^
+Undergraduate Researcher
+
++++
 
 ````
 
@@ -215,15 +222,6 @@ Undergraduate Researcher, Brown UTRA Award Recipient
 
 +++
 
-
----
-:column: col-4
-
-Yemi Fasina
-^^^
-Undergraduate Researcher
-
-+++
 
 
 ````
