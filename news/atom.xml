@@ -2,22 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://ml4sts.com</id>
   <title>  The Machine Learning for Socio-Technical Systems Lab at University of Rhode Island</title>
-  <updated>2022-10-24T15:25:32.535118+00:00</updated>
+  <updated>2022-10-28T10:28:58.357305+00:00</updated>
   <link href="https://ml4sts.com"/>
   <link href="https://ml4sts.com/news/atom.xml" rel="self"/>
   <generator uri="https://ablog.readthedocs.org/" version="0.10.29">ABlog</generator>
-  <entry>
-    <id>https://ml4sts.com/news/2022-03-23-nsbe/</id>
-    <title>Teaching Software Carpentry at NSBE</title>
-    <updated>2022-03-23T00:00:00+00:00</updated>
-    <content type="html">&lt;div class="ablog-post-excerpt docutils container"&gt;
-&lt;p&gt;Dr. Brown taught &lt;a class="reference external" href="https://brownsarahm.github.io/2022-03-23-nsbe/"&gt;sw carpentry&lt;/a&gt; at NSBE Convention &lt;a class="reference external" href="https://brownsarahm.github.io/2022-03-23-nsbe-notes/"&gt;notes from the workshop are online&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;
-</content>
-    <link href="https://ml4sts.com/news/2022-03-23-nsbe/" rel="alternate"/>
-    <summary>Dr. Brown taught sw carpentry at NSBE Convention notes from the workshop are online</summary>
-    <published>2022-03-23T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>https://ml4sts.com/news/2022-05-21-congrats/</id>
     <title>Congrats to recent graduates Caroline and CJ!</title>
@@ -64,5 +52,17 @@
     <link href="https://ml4sts.com/news/2022-06-27-kdd_eai/" rel="alternate"/>
     <summary>Dr. Brown and Surbhi Rathore’s paper “Information Theoretic Framework For Evaluation of Task Level Fairness” was accepted to the 1st ACM SIGKDD Workshop on Ethical Artificial Intelligence! The paper will be presented at the EAI-KDD22 Workshop.</summary>
     <published>2022-06-27T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://ml4sts.com/news/2022-10-28-surbhi-phd/</id>
+    <title>Surbhi Rathore will be the lab’s first PhD Student</title>
+    <updated>2022-10-28T00:00:00+00:00</updated>
+    <content type="html">&lt;div class="ablog-post-excerpt docutils container"&gt;
+&lt;p&gt;Surbhi will stay at URI for a PhD, beginning in January 2023 after finishing her MS this semester.&lt;/p&gt;
+&lt;/div&gt;
+</content>
+    <link href="https://ml4sts.com/news/2022-10-28-surbhi-phd/" rel="alternate"/>
+    <summary>Surbhi will stay at URI for a PhD, beginning in January 2023 after finishing her MS this semester.</summary>
+    <published>2022-10-28T00:00:00+00:00</published>
   </entry>
 </feed>
