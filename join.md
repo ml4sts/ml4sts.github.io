@@ -26,4 +26,4 @@ Dr. Brown gets many inquiries from prospective students that do not carefully re
 
 ## Other inquiries
 
-Currently, Dr. Brown mostly does not have capacity to supervise people outside of the roles above.  If you are interested in double checking, however, send an e-mail to `brownsarahm+
+Currently, Dr. Brown mostly does not have capacity to supervise people outside of the roles above.  If you are interested in double checking, however, send an e-mail to `brownsarahm+ml4sts@uri.edu`
