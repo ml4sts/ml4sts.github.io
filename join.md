@@ -1,4 +1,4 @@
-# Join the ML4STS Lab
+# Join
 
 
 
@@ -22,7 +22,7 @@ Graduate students in our lab are in the URI Computer Science MS or PhD program, 
 
 URI CS Graduate Programs do not use GRE scores, if you send an e-mail that includes them it will not be considered.  
 
-Dr. Brown gets many inquiries from prospective students that do not carefully read about the lab's research agenda and express interest in off topic projects.  To make your e-mail stick out, be sure to mention how your interested align with the labs goals and make it easy to find.  To make your e-mail easy to find, use the subject, "Prospective ML4STS Lab member - <MS/PhD>" with the appropriate degree based on what you are applying to and send your e-mail to `brownsarahm+ml4sts@uri.edu`
+Dr. Brown gets many inquiries from prospective students.  To make your e-mail stick out, be sure to mention how your interested align with the labs goals and make it easy to find.  To make your e-mail easy to find, use the subject, "Prospective ML4STS Lab member - <MS/PhD>" with the appropriate degree based on what you are applying to and send your e-mail to `brownsarahm+ml4sts@uri.edu`. Other inquiries may not be addressed. 
 
 ## Other inquiries
 
