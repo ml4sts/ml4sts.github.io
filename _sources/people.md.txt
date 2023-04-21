@@ -67,6 +67,19 @@ Graduate RA working on task level fairness and fair feature selection
 ````{panels}
 :column: col-4
 
+Dom Silva
+
+^^^
+Undergraduate Researcher, Project Credit
++++
+
+---
+
+Chris DeMaria
+
+^^^
+Undergraduate Researcher, Project Credit
++++
 
 
 ````
