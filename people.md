@@ -67,6 +67,24 @@ Graduate RA working on task level fairness and fair feature selection
 ````{panels}
 :column: col-4
 
+
+
+````
+
+
+<!--
+
+
+ -->
+
+
+## Alumni
+
+
+````{panels}
+:card: mb-4
+
+
 Marie Mellor
 
 ^^^
@@ -108,22 +126,6 @@ Yemi Fasina
 Undergraduate Researcher
 
 +++
-
-````
-
-
-<!--
-
-
- -->
-
-
-## Alumni
-
-
-````{panels}
-:card: mb-4
-
 ---
 :column: col-4
 
