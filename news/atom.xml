@@ -2,20 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://ml4sts.com</id>
   <title>  The Machine Learning for Socio-Technical Systems Lab at University of Rhode Island</title>
-  <updated>2023-04-21T20:45:18.806108+00:00</updated>
+  <updated>2023-08-10T11:17:11.734454+00:00</updated>
   <link href="https://ml4sts.com"/>
   <link href="https://ml4sts.com/news/atom.xml" rel="self"/>
   <generator uri="https://ablog.readthedocs.org/" version="0.10.33.post1">ABlog</generator>
-  <entry>
-    <id>https://ml4sts.com/news/2022-05-21-congrats/</id>
-    <title>Congrats to recent graduates Caroline and CJ!</title>
-    <updated>2022-05-21T00:00:00+00:00</updated>
-    <content type="html">&lt;div class="ablog-post-excerpt docutils container"&gt;
-&lt;/div&gt;
-</content>
-    <link href="https://ml4sts.com/news/2022-05-21-congrats/" rel="alternate"/>
-    <published>2022-05-21T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>https://ml4sts.com/news/2022-06-06-su22-ugrad/</id>
     <title>Welcome new undergraduate RAs Linda, Justin, and Aiden</title>
@@ -64,5 +54,17 @@
     <link href="https://ml4sts.com/news/2022-10-28-surbhi-phd/" rel="alternate"/>
     <summary>Surbhi will stay at URI for a PhD, beginning in January 2023 after finishing her MS this semester.</summary>
     <published>2022-10-28T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://ml4sts.com/news/tdssp23/</id>
+    <title>Professor Brown teaching TD</title>
+    <updated>2023-07-31T00:00:00+00:00</updated>
+    <content type="html">&lt;div class="ablog-post-excerpt docutils container"&gt;
+&lt;p&gt;Professor Brown is co-teaching Active Learning in Computer Science and leading CS Thinking and learning for the Talent Development Summer Success Program.&lt;/p&gt;
+&lt;/div&gt;
+</content>
+    <link href="https://ml4sts.com/news/tdssp23/" rel="alternate"/>
+    <summary>Professor Brown is co-teaching Active Learning in Computer Science and leading CS Thinking and learning for the Talent Development Summer Success Program.</summary>
+    <published>2023-07-31T00:00:00+00:00</published>
   </entry>
 </feed>
