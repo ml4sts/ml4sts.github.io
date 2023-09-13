@@ -20,13 +20,6 @@ Sarah M Brown is an Assistant Professor of Computer Science and director of the 
 :::
 
 
-:::{grid-item-card}
-Emmely Trejo Alvarez
-
-^^^
-MS student  working on explainations for fairness and tradeoffs between metrics
-+++
-:::
 
 :::{grid-item-card}
 Surbhi Rathore
@@ -36,8 +29,17 @@ Surbhi Rathore
 PhD student working on task level fairness and fair feature selection
 +++
 
-
 [{fab}`github` `@surbhir08`](https://github.com/surbhir08)
+:::
+
+
+
+:::{grid-item-card}
+Emmely Trejo Alvarez
+
+^^^
+MS student  working on explainations for fairness and tradeoffs between metrics
++++
 :::
 
 
