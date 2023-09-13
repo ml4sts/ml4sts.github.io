@@ -1,0 +1,61 @@
+{
+  "$schema": "https://aka.ms/codetour-schema",
+  "title": "new member",
+  "steps": [
+    {
+      "title": "card start",
+      "file": "people.md",
+      "description": "this line starts the block that is my card",
+      "line": 7
+    },
+    {
+      "title": "image",
+      "file": "people.md",
+      "description": "this line is optional, but it adds an image.  To add an image add one to the `_static/img` folder",
+      "line": 8
+    },
+    {
+      "title": "name",
+      "file": "people.md",
+      "description": "Here is my name, in the header of the card",
+      "line": 11
+    },
+    {
+      "title": "start the body",
+      "file": "people.md",
+      "description": "the `^^^` separate the header from the body",
+      "line": 12
+    },
+    {
+      "title": "body contents",
+      "file": "people.md",
+      "description": "in the body should be a short 1-2 sentence bio with level and interests",
+      "line": 13
+    },
+    {
+      "title": "start the footer",
+      "file": "people.md",
+      "description": "the `+++` marks the start of the footer",
+      "line": 15
+    },
+    {
+      "title": "footer links",
+      "file": "people.md",
+      "description": "in the footer you can put links to your own site, github, linkedin or other professional online presences that you have.   For more info about what icons work and how to find them, [see the sphinx-design docs](https://sphinx-design.readthedocs.io/en/latest/badges_buttons.html#fontawesome-icons)",
+      "line": 16
+    },
+    {
+      "title": "close the card",
+      "file": "people.md",
+      "description": "this `:::` closes the card",
+      "line": 20
+    },
+    {
+      "title": "Now add your own",
+      "file": "people.md",
+      "description": "Here you can add your profile block.  You can use the other students' blocks above as an example.\n",
+      "line": 54
+    }
+  ],
+  "ref": "main"
+}

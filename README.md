@@ -2,6 +2,7 @@
 
 This is our lab website, built with Sphinx! Based on [Chris Holdgraf's](https://github.com/choldgraf/choldgraf.github.io)
 
+
 The easiest way to build the website is to use `nox`, which handles all of the environment generation automatically.
 To do so, follow these steps:
 
@@ -26,32 +27,4 @@ nox -s docs-live
 
 ## Add a Person or Project
 
-
-These pages use [sphinx panels]().  Add yourself at the top of the relevant section.
-
-```
-
-:column: col-4
-
-NAME
-
-^^^
-
-Role and optional bio
-+++
-
-{link-badge}`https://github.com/gh-username,"GitHub",cls=badge-dark text-white`
-
----
-
-```
-
-Formatting notes:
-- The `^^^` separates your name/title from the body
-- `+++` separates the links from the body
-- `---` spearates people/projects
-
-For the link badges, look at others on the page to see style conventions.  
-```
-{link-badge}`http://url/to/site/,"text to display",cls=style-info`
-```
+Follow the new member code tour using vscode. 

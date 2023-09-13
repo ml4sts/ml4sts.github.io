@@ -1,0 +1,25 @@
+{
+  "$schema": "https://aka.ms/codetour-schema",
+  "title": "news",
+  "steps": [
+    {
+      "file": "news/2023-07-31-tdssp23.md",
+      "description": "a news file has to have a header like this with one key, `date`",
+      "line": 1
+    },
+    {
+      "file": "news/2023-07-31-tdssp23.md",
+      "description": "then add an H1 header with `#`",
+      "line": 5
+    },
+    {
+      "file": "news/2023-07-31-tdssp23.md",
+      "description": "and write your news post",
+      "line": 7
+    },
+    {
+      "directory": "news",
+      "description": "Now create your own file in the `news` folder titled with the date and a short name aka slug for the news entry!"
+    }
+  ]
+}
