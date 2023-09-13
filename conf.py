@@ -31,7 +31,7 @@ extensions = [
     "myst_nb",
     "ablog",
     'sphinx.ext.intersphinx',
-    "sphinx_panels",
+    "sphinx_design",
     "sphinxcontrib.bibtex",
     "sphinxext.opengraph",
 ]
@@ -60,7 +60,6 @@ html_theme_options = {
   "github_url": "https://github.com/ml4sts/",
   "twitter_url": "https://twitter.com/ml4sts",
   "search_bar_text": "Search",
-  "google_analytics_id": "",
   "navbar_end": ["search-field.html", "navbar-icon-links"],
   "footer_items":["copyright",  "sphinx-version",],
   "use_edit_page_button": True,
