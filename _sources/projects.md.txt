@@ -2,14 +2,11 @@
 
 
 
-````{panels}
-:card: mb-4
-:body:
-:column: pl-0
-:container:
+:::::{grid} 1 2 2 2
+:gutter: 2
 
----
-:column: col-4
+
+:::{grid-item-card}
 :img-top: _static/img/fair_dynamics.png
 
 
@@ -23,26 +20,27 @@ How does fairness generalize, tolerate distribution shift, and propagate through
 +++
 
 
-{link-badge}`https://dynamicdecisions.github.io/assets/pdfs/29.pdf,"paper",cls=badge-primary text-white`
+[{far}`file-pdf`](https://dynamicdecisions.github.io/assets/pdfs/29.pdf)
 
+:::
 
----
-:column: col-4
+:::{grid-item-card}
 :img-top: _static/img/statistical_perceptions.png
 
 
- Fairness Perceptions
- ^^^
+Fairness Perceptions
+^^^
 
 In collaboration with [Malik Boykin's lab](https://www.boykinlab.com/) in Cognitive, Linguistic, and Psychological Sciences at Brown, we are studying people's preferred definition of fairness and what social and algorithmic factors influence these preferences. To power these tools, we are also developing techniques to interpolate between definitions of fairness.
 
 +++
 
-{link-badge}`https://doi.org/10.1145/3465416.3483302,"concept paper",cls=badge-primary text-white`
+[{far}`file-pdf`](https://doi.org/10.1145/3465416.3483302)
+
+:::
 
 
----
-:column: col-4
+:::{grid-item-card}
 :img-top: _static/img/taskfair.png
 
 Task Level Fairness
@@ -52,10 +50,12 @@ In this project, we examine how fairness can be evaluated at the task and proble
 
 +++
 
-{link-badge}`https://charliezhaoyinpeng.github.io/EAI-KDD22/camera_ready/information.pdf,"paper",cls=badge-primary text-white`
+[{far}`file-pdf`](https://charliezhaoyinpeng.github.io/EAI-KDD22/camera_ready/information.pdf)
 
----
-:column: col-4
+:::
+
+
+:::{grid-item-card}
 
 
 Model-Based Fairness Intervention Assessment
@@ -65,8 +65,12 @@ In this project, we are using bias models to evalute the effectiveness of differ
 
 +++
 
----
-:column: col-4
+:::
+
+
+:::{grid-item-card}
+
+
 :img-top: _static/img/fairness_forensics.png
 
 Wiggum
@@ -76,10 +80,10 @@ Simpson's paradox inspired Fairness Forensics in collaboration with [the OU Data
 +++
 
 
-{link-badge}`https://fairnessforensics.github.io/wiggum,"docs",cls=badge-success text-white`
+[{fas}`house`  ](https://fairnessforensics.github.io/wiggum)
 
-{link-badge}`https://github.com/fairnessforensics/wiggum,"GitHub",cls=badge-dark text-white`
+[{fab}`github` ](https://github.com/fairnessforensics/wiggum)
 
+:::
 
-
-````
+::::
