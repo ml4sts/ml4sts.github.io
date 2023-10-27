@@ -9,9 +9,12 @@ Dr. Brown can supervise research for you to get experience to decide if you want
 If you are interested, please read the website to learn about the work and  [submit this form just for current URI students](https://forms.gle/u8JCvdRJaYLbc4To7). The form notifies Dr. Brown by e-mail and allows you to book a meeting.
 
 
+Typically, I prefer to work with students who have taken CSC310  (with any professor) or CSC392 (with me). 
 ## Current URI Graduate Students
 
 Ideally, you should take a graduate level course with Dr. Brown in your first year at URI.  If you are admitted without credit for a Machine Learning course, take CSC461 in your first fall.
+
+My current graduate course is [ML for science and society](https://ml4scisoc.github.io/about.html) see this page for information and to request a permission number. 
 
 Please read the website to learn about the work and  [submit this form just for current URI students](https://forms.gle/u8JCvdRJaYLbc4To7). The form notifies Dr. Brown by e-mail and allows you to book a meeting.
 
