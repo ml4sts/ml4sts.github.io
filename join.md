@@ -52,6 +52,13 @@ Example tasks:
 - design new plot styles using python plotly and implement them for use in experiments
 - analyze experimental data
 - design new questions to ask people
+
+Build skills in data science, front end, social impacts of computing and interdisciplinary work. 
+
+Prereq (one of the following):
+- CSC/DSP310 (preferred)
+- other significant Python work and Plotly familiarity
+
 :::
 
 ::::
