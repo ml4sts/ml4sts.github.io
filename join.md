@@ -33,7 +33,7 @@ Prereq: CSC392 or demonstrated proficiency in git, bash, and IDEs
 **Empirical evaluation of the contexts where fair ML algorithms succeed and fail through intentionally designed biased data**
 
 Example tasks: 
-- write code that impelements tyes of biased synthetic data based on mathematical models in the literature
+- write code that impelements types of biased synthetic data based on mathematical models in the literature
 - evalute parameter ranges that create/do not create bias interactions
 - analyze data on existing biases to determine advice for data scientists
 - add more ML models by implementing recent advances in fair ML or developing novel interventions
