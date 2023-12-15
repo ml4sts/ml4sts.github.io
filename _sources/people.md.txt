@@ -35,20 +35,21 @@ PhD student working on task level fairness and fair feature selection
 
 
 :::{grid-item-card}
-Emmely Trejo Alvarez
+
+Puja Ghosh
 
 ^^^
-MS student  working on explainations for fairness and tradeoffs between metrics
+PhD Student working on task level fairness and bias modeling
 +++
 :::
 
 
 :::{grid-item-card}
 
-Dom Silva
+Brenden Rice
 
 ^^^
-Undergraduate Researcher, Project Credit
+Undergraduate Researcher, Project Credit working on developer tools for robust ML
 +++
 :::
 
@@ -80,6 +81,25 @@ Undergraduate Comp Sci student interested in MS, Project Credit
 
 :::::{grid} 1 2 2 2
 :gutter: 2
+
+
+:::{grid-item-card}
+
+Dom Silva
+
+^^^
+Undergraduate Researcher, Project Credit
++++
+:::
+
+:::{grid-item-card}
+Emmely Trejo Alvarez
+
+^^^
+MS student  working on explainations for fairness and tradeoffs between metrics
++++
+:::
+
 
 :::{grid-item-card}
 
