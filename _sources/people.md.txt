@@ -66,6 +66,17 @@ Undergraduate Comp Sci student interested in MS, Project Credit
 :::
 
 
+:::{grid-item-card}
+
+Rohan Kelley
+
+^^^
+Undergraduate Researcher, Project Credit
++++
+:::
+
+
+
 
 :::{grid-item-card}
 
@@ -77,6 +88,7 @@ Undergraduate Computer Science, Project Credit, interested in ML
 [{fab}`github` ](https://github.com/trevmoy)
 [{fab}`linkedin`](https://www.linkedin.com/in/trevor-j-moy/)
 :::
+
 
 
 :::::
