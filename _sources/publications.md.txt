@@ -1,5 +1,16 @@
 # Publications
 
+```{bibliography} _static/papers.bib
+:style: plain
+:labelprefix: 2023
+:filter: year % "2023"
+```
+
+```{bibliography} _static/papers.bib
+:style: plain
+:labelprefix: 2022
+:filter: year % "2022"
+```
 
 ```{bibliography} _static/papers.bib
 :style: plain
