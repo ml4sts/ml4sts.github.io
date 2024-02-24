@@ -59,7 +59,7 @@ Undergraduate Researcher, Project Credit working on developer tools for robust M
 Noah Vario
 
 ^^^
-Undergraduate Comp Sci student interested in MS, Project Credit
+Undergraduate Comp Sci student interested in ML, Project Credit
 +++
 [{fab}`github` ](https://github.com/NoahV17)
 [{fab}`linkedin`](https://www.linkedin.com/in/noahvario/)
