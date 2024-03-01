@@ -46,7 +46,7 @@ PhD Student working on task level fairness and bias modeling
 
 :::{grid-item-card}
 
-Brenden Rice
+Brendan Rice
 
 ^^^
 Undergraduate Researcher, Project Credit working on developer tools for robust ML
