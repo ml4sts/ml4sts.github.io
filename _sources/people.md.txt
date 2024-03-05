@@ -89,6 +89,14 @@ Undergraduate Computer Science, Project Credit, interested in ML
 [{fab}`linkedin`](https://www.linkedin.com/in/trevor-j-moy/)
 :::
 
+:::{grid-item-card}
+
+Lani Jimenez
+
+^^^
+Undergraduate Researcher, Project Credit, Comp Sci student interested in ML
++++
+:::
 
 
 :::::
