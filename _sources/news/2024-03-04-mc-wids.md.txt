@@ -1,0 +1,11 @@
+---
+date: 2024-03-04
+---
+
+# Dr. Brown gave a keynote at Middlebury College Women in Data Science conference
+
+**title**  Data Science Skills in Unexpected Places
+
+**abstract** Data science is a highly interdisciplinary pursuit, combining computer science and statistics with domain expertise to make sense of data. This means as data scientists we must work closely with domain experts or develop enough domain expertise of our own for each project.  In this talk, I will share the story behind a few data science projects I have done: how high school social studies helped me develop a learning PTSD diagnosis, undergraduate advanced writing helps me measure understanding of fairness in AI, and how student leadership experiences help me design tools for data scientists to build better models.
+
+[event](https://www.middlebury.edu/events/event/women-data-science-conference-0)
