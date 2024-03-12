@@ -30,7 +30,7 @@ Surbhi Rathore
 PhD student working on task level fairness and fair feature selection
 +++
 
-[{fab}`github` `@surbhir08`](https://github.com/surbhir08)
+[{fab}`github`](https://github.com/surbhir08)
 :::
 
 
