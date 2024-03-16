@@ -1,4 +1,4 @@
-# Members
+# People
 
 
 :::::{grid} 1 2 2 2
