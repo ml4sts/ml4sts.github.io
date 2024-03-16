@@ -57,7 +57,7 @@ exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store', "*import_posts*",
 html_theme = 'pydata_sphinx_theme'
 
 html_theme_options = {
-    "header_links_before_dropdown": 6,
+    "header_links_before_dropdown": 8,
   "github_url": "https://github.com/ml4sts/",
   "twitter_url": "https://twitter.com/ml4sts",
   "search_bar_text": "Search",
