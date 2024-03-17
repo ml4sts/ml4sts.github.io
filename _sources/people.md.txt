@@ -17,6 +17,7 @@ Sarah M Brown is an Assistant Professor of Computer Science and director of the 
 [{fab}`github` ](https://github.com/brownsarahm)
 [{fab}`linkedin`](https://www.linkedin.com/in/smariebrown/)
 [{fas}`file-pdf`](pdf/CV_sarahbrown.pdf)
+[{fab}`fa-orcid`](https://orcid.org/0000-0001-5728-0822)
 
 :::
 
