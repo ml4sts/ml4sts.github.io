@@ -1,6 +1,6 @@
 # Join the lab
 
-
+To join the lab, you must be interested and motivated to taking a socio-technical approach to doing ML research and building ML-powered systems. 
 
 ## Current URI Undergraduates
 
@@ -12,6 +12,9 @@ If you are interested, please read the website to learn about the work and  [sub
 Typically, I prefer to work with students who have taken CSC310  (with any professor) or CSC392/CSC311 (with me). 
 
 ### Current Open Projects
+
+Undergraduates will almost always spend at least one semester on one of these before starting their own project. The most common exception is students with a double major who have a second research advisor and want to do data science too. 
+
 ::::{card-carousel} 2
 
 :::{card} Robust ML evaluation Developer tools
@@ -74,18 +77,23 @@ My current graduate course is [ML for science and society](https://ml4scisoc.git
 
 Please read the website to learn about the work and  [submit this form just for current URI students](https://forms.gle/u8JCvdRJaYLbc4To7). The form notifies Dr. Brown by e-mail and allows you to book a meeting as an interview.
 
-New gradutate students may start out working on one of the projects listed above 
+New graduate students may start out working on one of the projects listed above before taking leadership on a project of their own. 
 
 ## Prospective Graduate Students
 
+```{tip}
+I will look for the lab name in your statment when I read them
+```
+
 Graduate students in our lab are in the URI Computer Science MS or PhD program. If you apply to this program, Dr. Brown will see your application. To be considered to join the lab, mention the lab name and *why* you want to do research aligned with the lab's research goals in your personal statement.  
+
 
 URI CS Graduate Programs do not use GRE scores, if you send an e-mail that includes them it will not be considered.  
 
 Dr. Brown gets many inquiries from prospective students.  To make your e-mail stick out, be sure to mention how your interested align with the labs goals and make it easy to find.  To make your e-mail easy to find, use the subject, `Prospective ML4STS Lab member - <MS/PhD>` with the appropriate degree based on what you are applying to selected and send your e-mail to `brownsarahm+ml4sts@uri.edu`. Other inquiries may not be addressed. 
 
-Dr. Brown priortiizes research integrity and thoughtfulness in research, using automation inappropriately in the process of searching for graduate school is inconsistent with this. Any students who send emails that seem automated will not be considered for lab membership. 
+Dr. Brown priortiizes research integrity and thoughtfulness in research. Using automation inappropriately in the process of searching for graduate school is inconsistent with demonstrating that you will conduct research with integrity ad a member of the lab. Any students who send emails that seem inappropriately automated will not be considered for lab membership. 
 
 ## Other inquiries
 
-Currently, Dr. Brown mostly does not have capacity to supervise people outside of the roles above.  If you are interested in double checking, however, send an e-mail to `brownsarahm+ml4sts@uri.edu`
+Currently, Dr. Brown mostly does not have capacity to supervise people outside of the roles above.  If you are interested in double checking, however, send an e-mail to `brownsarahm+ml4sts@uri.edu`. 

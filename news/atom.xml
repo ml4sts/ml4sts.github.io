@@ -2,35 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://ml4sts.com</id>
   <title>  The Machine Learning for Socio-Technical Systems Lab at University of Rhode Island</title>
-  <updated>2024-03-17T03:23:10.330532+00:00</updated>
+  <updated>2024-08-27T16:17:44.381811+00:00</updated>
   <link href="https://ml4sts.com"/>
   <link href="https://ml4sts.com/news/atom.xml" rel="self"/>
   <generator uri="https://ablog.readthedocs.org/" version="0.10.33.post1">ABlog</generator>
-  <entry>
-    <id>https://ml4sts.com/news/2023-09-06-puja/</id>
-    <title>New PhD Student Puja Ghosh</title>
-    <updated>2023-09-06T00:00:00+00:00</updated>
-    <content type="html">&lt;div class="ablog-post-excerpt docutils container"&gt;
-&lt;p&gt;Welcome to new PhD student Puja Ghosh!&lt;/p&gt;
-&lt;/div&gt;
-</content>
-    <link href="https://ml4sts.com/news/2023-09-06-puja/"/>
-    <summary>Welcome to new PhD student Puja Ghosh!</summary>
-    <published>2023-09-06T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://ml4sts.com/news/2023-09-10-ugfa23/</id>
-    <title>Welcome to new Undergraduate Researchers Kyle and Brendan</title>
-    <updated>2023-09-10T00:00:00+00:00</updated>
-    <content type="html">&lt;div class="ablog-post-excerpt docutils container"&gt;
-&lt;p&gt;Kyle will be working on applying ML to Antimicrobial Peptide (AMP) design.&lt;/p&gt;
-&lt;p&gt;Brendan will be working on softare improvements to internal tools used in the lab.&lt;/p&gt;
-&lt;/div&gt;
-</content>
-    <link href="https://ml4sts.com/news/2023-09-10-ugfa23/"/>
-    <summary>Kyle will be working on applying ML to Antimicrobial Peptide (AMP) design.Brendan will be working on softare improvements to internal tools used in the lab.</summary>
-    <published>2023-09-10T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>https://ml4sts.com/news/2024-01-18-aisummit/</id>
     <title>Dr Brown presented on What is AI at the Academic Summit for URI Faculty</title>
@@ -68,5 +43,30 @@ ML research.Trevor and Noah will be joining Brendan to work on internal tooling 
     <link href="https://ml4sts.com/news/2024-03-04-mc-wids/"/>
     <summary>title  Data Science Skills in Unexpected Placesabstract Data science is a highly interdisciplinary pursuit, combining computer science and statistics with domain expertise to make sense of data. This means as data scientists we must work closely with domain experts or develop enough domain expertise of our own for each project.  In this talk, I will share the story behind a few data science projects I have done: how high school social studies helped me develop a learning PTSD diagnosis, undergraduate advanced writing helps me measure understanding of fairness in AI, and how student leadership experiences help me design tools for data scientists to build better models.</summary>
     <published>2024-03-04T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://ml4sts.com/news/2024-03-22-nsbe50/</id>
+    <title>Dr. Brown will present a workshop at NSBE 50</title>
+    <updated>2024-03-22T00:00:00+00:00</updated>
+    <content type="html">&lt;div class="ablog-post-excerpt docutils container"&gt;
+&lt;p&gt;The workshop will be a hands on workshop to build a profile website using github pages.&lt;/p&gt;
+&lt;/div&gt;
+</content>
+    <link href="https://ml4sts.com/news/2024-03-22-nsbe50/"/>
+    <summary>The workshop will be a hands on workshop to build a profile website using github pages.</summary>
+    <published>2024-03-22T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://ml4sts.com/news/2024-03-29-fireside/</id>
+    <title>Dr Brown will participate in the AI lab Fireside chat series</title>
+    <updated>2024-03-29T00:00:00+00:00</updated>
+    <content type="html">&lt;div class="ablog-post-excerpt docutils container"&gt;
+&lt;p&gt;&lt;strong&gt;title&lt;/strong&gt; How to anticipate risks in AI-enhanced research&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;abstract&lt;/strong&gt; ML-powered AI is increasingly appearing in all areas of research. However, ML is still in many ways a research output, more of a prototype than a polished, reliable, product. Even commercially released systems, because they are software, can be released without the same rigorous testing that commercially available research equipment has been traditionally be subject to. In this talk, I will draw connections between the ML research process and potential risks in applied ML and use of commercial AI in research.&lt;/p&gt;
+&lt;/div&gt;
+</content>
+    <link href="https://ml4sts.com/news/2024-03-29-fireside/"/>
+    <summary>title How to anticipate risks in AI-enhanced researchabstract ML-powered AI is increasingly appearing in all areas of research. However, ML is still in many ways a research output, more of a prototype than a polished, reliable, product. Even commercially released systems, because they are software, can be released without the same rigorous testing that commercially available research equipment has been traditionally be subject to. In this talk, I will draw connections between the ML research process and potential risks in applied ML and use of commercial AI in research.</summary>
+    <published>2024-03-29T00:00:00+00:00</published>
   </entry>
 </feed>
