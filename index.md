@@ -1,6 +1,6 @@
 # ML4STS lab
 
-We study how ML works for science, technology, and society. This means we apply data science using ML models to understand the world with other scientists, study and evaluate those ML systems directly and build tools to help them intervene.  Most of our work right now focuses on building more fair AI and some includes collaboration with other scientists.
+We study how to do Machine Learning for Socio-technical Systems. This means we apply data science using ML models to understand the world with other scientists, study and evaluate  ML systems directly, and build tools to help data scientists to employ best practices.  Most of our work right now focuses on fairness of automated decision making systems and some includes collaboration with other scientists.
 
 ## News
 

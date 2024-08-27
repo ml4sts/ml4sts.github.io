@@ -16,7 +16,6 @@ Machine learning data Simulators
 
 +++
 [{fas}`house` ](https://ml4sts.com/ml-sim)
-
 [{fab}`github` ](https://github.com/ml4sts/ml-sim)
 
 :::
@@ -32,7 +31,6 @@ Simpson's paradox inspired Fairness Forensics in collaboration with [the OU Data
 
 
 [{fas}`house`  ](https://fairnessforensics.github.io/wiggum)
-
 [{fab}`github` ](https://github.com/fairnessforensics/wiggum)
 
 :::
