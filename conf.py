@@ -18,7 +18,7 @@
 # -- Project information -----------------------------------------------------
 
 project = 'ML4STS Lab'
-copyright = '2022, Sarah M Brown'
+copyright = '2024, Sarah M Brown'
 author = 'Sarah M Brown'
 
 
