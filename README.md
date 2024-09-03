@@ -2,6 +2,14 @@
 
 This is our lab website, built with Sphinx! Based on [Chris Holdgraf's](https://github.com/choldgraf/choldgraf.github.io)
 
+## Simple additions/edits 
+
+1. Use a codespace
+2. when it fully loads look for `Code Tours` in the bottom left and choose the one that matches your needs
+3. commit to a branch and make a pull request. 
+
+
+## Complex additions
 
 The easiest way to build the website is to use `nox`, which handles all of the environment generation automatically.
 To do so, follow these steps:
@@ -24,7 +32,3 @@ To run a live webserver that will auto-build and reload when you make changes, r
 ```shell
 nox -s docs-live
 ```
-
-## Add a Person or Project
-
-Follow the new member code tour using vscode. 
