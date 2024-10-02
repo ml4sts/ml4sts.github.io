@@ -48,6 +48,7 @@ Build skills in data science and machine learning
 
 Prereq: CSC/DSP310
 :::
+
 :::{card} Can LLMs do fair data science? 
 
 **Robust evaluation of LLMs as decision-makers, assistants, and agents in data-rich contexts with respect to the fairness of the decision making.**
@@ -80,6 +81,13 @@ Prereq (one of the following):
 
 :::
 
+:::{card} Documentation
+
+A low code opportunity is to work on documentation for any of the code tools we develop in the lab. Reading code and understanding it is a good way to learn more, while contributing
+written *English* instead of in a programming language.
+
+:::
+
 ::::
 
 
@@ -96,19 +104,19 @@ New graduate students may start out working on one of the projects listed above 
 ## Prospective Graduate Students
 
 ```{tip}
-I will look for the lab name in your statment when I read them
+I will look for the lab name in your statment when I read the applications as a member of the graduate committee
 ```
 
 Graduate students in our lab are in the URI Computer Science MS or PhD program. If you apply to this program, I will see your application. To be considered to join the lab, mention the lab name and *why* you want to do research aligned with the lab's research goals in your personal statement.  
 
 
-URI CS Graduate Programs do not use GRE scores, **please do not send them to me**.  
+URI CS Graduate Programs do not use GRE scores, **please do not send them to me**, I will not look at them if you send them via email.  
 
 ```{important}
-I will not have any RA funding for incoming students starting at any time in 2025. 
+I do not anticipate having RA funding for incoming students starting at any time in 2025. 
 ```
 
-I many inquiries from prospective students and am unable to reply to all of them.  I generally do not set up meetings with prospective students until they are admitted and deciding to atten URI or not. If you request that, I am unlikely to reply. I primarily use these emails for extra information when reading graduate applications, to make your e-mail easy to find, use the subject, `Prospective ML4STS Lab member - <MS/PhD>` with the appropriate degree based on what you are applying to selected and send your e-mail to `brownsarahm+ml4sts@uri.edu`.  These emails can be favorable if you send something personal about why you want to join the lab, but **I cannot assess your application via email**. 
+I receive many inquiries from prospective students and am unable to reply to all of them.  I generally do not set up meetings with prospective students until they are admitted and deciding to atten URI or not. If you request that, I am unlikely to reply. I primarily use these emails for extra information when reading graduate applications, to make your e-mail easy to find, use the subject, `Prospective ML4STS Lab member - <MS/PhD>` with the appropriate degree based on what you are applying to selected and send your e-mail to `brownsarahm+ml4sts@uri.edu`.  These emails can be favorable if you send something personal about why you want to join the lab, but **I cannot assess your application via email**.
 
 I will reply to emails that contain specific questions about the fit of a students research interests with the lab. I will also reply to specific emails that are asking about fellowship opportunities where I can serve as a reference. 
 
@@ -118,4 +126,4 @@ I deeply value research integrity and thoughtfulness in research. Using automati
 
 ## Other inquiries
 
-Currently, Dr. Brown mostly does not have capacity to supervise people outside of the roles above.  If you are interested in double checking, however, send an e-mail to `brownsarahm+ml4sts@uri.edu`. 
+Currently, Dr. Brown mostly does not have capacity to supervise people outside of the roles above.  If you are interested in double checking, however, send an e-mail to `brownsarahm+ml4sts@uri.edu` with a descriptive subject and an email body that describes why you want to work in my lab, specifically. 
