@@ -4,3 +4,4 @@ Gemfile.lock
 _build/
 __pycache__
 .nox/
+_drafts/
