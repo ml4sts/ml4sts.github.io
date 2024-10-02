@@ -2,20 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://ml4sts.com</id>
   <title>  The Machine Learning for Socio-Technical Systems Lab at University of Rhode Island</title>
-  <updated>2024-10-02T13:17:51.575872+00:00</updated>
+  <updated>2024-10-02T13:53:07.473858+00:00</updated>
   <link href="https://ml4sts.com"/>
   <link href="https://ml4sts.com/news/atom.xml" rel="self"/>
   <generator uri="https://ablog.readthedocs.org/" version="0.10.33.post1">ABlog</generator>
-  <entry>
-    <id>https://ml4sts.com/news/2024-01-18-aisummit/</id>
-    <title>Dr Brown presented on What is AI at the Academic Summit for URI Faculty</title>
-    <updated>2024-01-18T00:00:00+00:00</updated>
-    <content type="html">&lt;div class="ablog-post-excerpt docutils container"&gt;
-&lt;/div&gt;
-</content>
-    <link href="https://ml4sts.com/news/2024-01-18-aisummit/"/>
-    <published>2024-01-18T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>https://ml4sts.com/news/2024-01-23-ugsp24/</id>
     <title>Welcome to new undergraduates Lani, Noah,  Trevor, and Rohan</title>
@@ -68,5 +58,17 @@ ML research.Trevor and Noah will be joining Brendan to work on internal tooling 
     <link href="https://ml4sts.com/news/2024-03-29-fireside/"/>
     <summary>title How to anticipate risks in AI-enhanced researchabstract ML-powered AI is increasingly appearing in all areas of research. However, ML is still in many ways a research output, more of a prototype than a polished, reliable, product. Even commercially released systems, because they are software, can be released without the same rigorous testing that commercially available research equipment has been traditionally be subject to. In this talk, I will draw connections between the ML research process and potential risks in applied ML and use of commercial AI in research.</summary>
     <published>2024-03-29T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://ml4sts.com/news/2024-08-23-nsbepdc/</id>
+    <title>Dr. Brown is presenting at NSBE PDC</title>
+    <updated>2024-08-23T00:00:00+00:00</updated>
+    <content type="html">&lt;div class="ablog-post-excerpt docutils container"&gt;
+&lt;p&gt;NSBE’s Professional Development conference is a venue for working professionals to skill up. She is presenting the &lt;a class="reference external" href="https://ml4sts-outreach.github.io/profile/"&gt;building a portfolio website workshop&lt;/a&gt; by invitation&lt;/p&gt;
+&lt;/div&gt;
+</content>
+    <link href="https://ml4sts.com/news/2024-08-23-nsbepdc/"/>
+    <summary>NSBE’s Professional Development conference is a venue for working professionals to skill up. She is presenting the building a portfolio website workshop by invitation</summary>
+    <published>2024-08-23T00:00:00+00:00</published>
   </entry>
 </feed>
