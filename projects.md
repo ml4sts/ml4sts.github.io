@@ -1,28 +1,10 @@
 # Projects
 
+## Active Projects
 
 
 :::::{grid} 2
 :gutter: 2
-
-
-:::{grid-item-card}
-:img-top: _static/img/fair_dynamics.png
-
-
-Dynamics of Fairness
-
-^^^
-
-(inactive, seeking a student)
-
-How does fairness generalize, tolerate distribution shift, and propagate through interacting systems?
-+++
-
-
-[{far}`file-pdf`](https://dynamicdecisions.github.io/assets/pdfs/29.pdf)
-
-:::
 
 :::{grid-item-card}
 :img-top: _static/img/statistical_perceptions.png
@@ -68,6 +50,31 @@ In this project, we are using bias models to evalute the effectiveness of differ
 +++
 
 :::
+::::
+
+
+## Past Projects
+
+::::{grid} 2
+
+:::{grid-item-card}
+:img-top: _static/img/fair_dynamics.png
+
+
+Dynamics of Fairness
+
+^^^
+
+(inactive, seeking a student)
+
+How does fairness generalize, tolerate distribution shift, and propagate through interacting systems?
++++
+
+
+[{far}`file-pdf`](https://dynamicdecisions.github.io/assets/pdfs/29.pdf)
+
+:::
+
 
 
 :::{grid-item-card}
