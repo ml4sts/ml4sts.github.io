@@ -2,38 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://ml4sts.com</id>
   <title>  The Machine Learning for Socio-Technical Systems Lab at University of Rhode Island</title>
-  <updated>2024-10-02T13:53:07.473858+00:00</updated>
+  <updated>2024-11-01T00:43:36.493802+00:00</updated>
   <link href="https://ml4sts.com"/>
   <link href="https://ml4sts.com/news/atom.xml" rel="self"/>
   <generator uri="https://ablog.readthedocs.org/" version="0.10.33.post1">ABlog</generator>
-  <entry>
-    <id>https://ml4sts.com/news/2024-01-23-ugsp24/</id>
-    <title>Welcome to new undergraduates Lani, Noah,  Trevor, and Rohan</title>
-    <updated>2024-01-23T00:00:00+00:00</updated>
-    <content type="html">&lt;div class="ablog-post-excerpt docutils container"&gt;
-&lt;p&gt;Lani will be working on understanding how problem formulation is/not described in current
-ML research.&lt;/p&gt;
-&lt;p&gt;Trevor and Noah will be joining Brendan to work on internal tooling for the lab.&lt;/p&gt;
-&lt;/div&gt;
-</content>
-    <link href="https://ml4sts.com/news/2024-01-23-ugsp24/"/>
-    <summary>Lani will be working on understanding how problem formulation is/not described in current
-ML research.Trevor and Noah will be joining Brendan to work on internal tooling for the lab.</summary>
-    <published>2024-01-23T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://ml4sts.com/news/2024-03-04-mc-wids/</id>
-    <title>Dr. Brown gave a keynote at Middlebury College Women in Data Science conference</title>
-    <updated>2024-03-04T00:00:00+00:00</updated>
-    <content type="html">&lt;div class="ablog-post-excerpt docutils container"&gt;
-&lt;p&gt;&lt;strong&gt;title&lt;/strong&gt;  Data Science Skills in Unexpected Places&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;abstract&lt;/strong&gt; Data science is a highly interdisciplinary pursuit, combining computer science and statistics with domain expertise to make sense of data. This means as data scientists we must work closely with domain experts or develop enough domain expertise of our own for each project.  In this talk, I will share the story behind a few data science projects I have done: how high school social studies helped me develop a learning PTSD diagnosis, undergraduate advanced writing helps me measure understanding of fairness in AI, and how student leadership experiences help me design tools for data scientists to build better models.&lt;/p&gt;
-&lt;/div&gt;
-</content>
-    <link href="https://ml4sts.com/news/2024-03-04-mc-wids/"/>
-    <summary>title  Data Science Skills in Unexpected Placesabstract Data science is a highly interdisciplinary pursuit, combining computer science and statistics with domain expertise to make sense of data. This means as data scientists we must work closely with domain experts or develop enough domain expertise of our own for each project.  In this talk, I will share the story behind a few data science projects I have done: how high school social studies helped me develop a learning PTSD diagnosis, undergraduate advanced writing helps me measure understanding of fairness in AI, and how student leadership experiences help me design tools for data scientists to build better models.</summary>
-    <published>2024-03-04T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>https://ml4sts.com/news/2024-03-22-nsbe50/</id>
     <title>Dr. Brown will present a workshop at NSBE 50</title>
@@ -70,5 +42,33 @@ ML research.Trevor and Noah will be joining Brendan to work on internal tooling 
     <link href="https://ml4sts.com/news/2024-08-23-nsbepdc/"/>
     <summary>NSBE’s Professional Development conference is a venue for working professionals to skill up. She is presenting the building a portfolio website workshop by invitation</summary>
     <published>2024-08-23T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://ml4sts.com/news/2024-10-08-ddf/</id>
+    <title>Dr. Brown is speaking in the Digital Defense Fund fall seminar series</title>
+    <updated>2024-10-08T00:00:00+00:00</updated>
+    <content type="html">&lt;div class="ablog-post-excerpt docutils container"&gt;
+&lt;p&gt;She is co-leading a session on AI basics titled, “Unmasking AI: the Mysteries and Magic of Artificial Intelligence”.&lt;/p&gt;
+&lt;/div&gt;
+</content>
+    <link href="https://ml4sts.com/news/2024-10-08-ddf/"/>
+    <summary>She is co-leading a session on AI basics titled, “Unmasking AI: the Mysteries and Magic of Artificial Intelligence”.</summary>
+    <published>2024-10-08T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://ml4sts.com/news/2024-10-30-sff/</id>
+    <title>Funding from the Survival and Flourishing Fund</title>
+    <updated>2024-10-30T00:00:00+00:00</updated>
+    <content type="html">&lt;div class="ablog-post-excerpt docutils container"&gt;
+&lt;p&gt;We received funding from the &lt;a class="reference external" href="https://survivalandflourishing.fund/sff-2024-recommendations"&gt;SFF Fairness Track&lt;/a&gt; to fund work
+developing a benchmark for fair data-driven decision making with LLMs.
+We will develop a benchmark for both data analytics style decision-making and training fair models on data. Then we will assess state of the art AI systems engaging inn thse tasks across various levels of AI agency.&lt;/p&gt;
+&lt;/div&gt;
+</content>
+    <link href="https://ml4sts.com/news/2024-10-30-sff/"/>
+    <summary>We received funding from the SFF Fairness Track to fund work
+developing a benchmark for fair data-driven decision making with LLMs.
+We will develop a benchmark for both data analytics style decision-making and training fair models on data. Then we will assess state of the art AI systems engaging inn thse tasks across various levels of AI agency.</summary>
+    <published>2024-10-30T00:00:00+00:00</published>
   </entry>
 </feed>
