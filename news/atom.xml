@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://ml4sts.com</id>
   <title>  The Machine Learning for Socio-Technical Systems Lab at University of Rhode Island</title>
-  <updated>2024-11-01T00:43:36.493802+00:00</updated>
+  <updated>2024-11-22T23:25:41.728453+00:00</updated>
   <link href="https://ml4sts.com"/>
   <link href="https://ml4sts.com/news/atom.xml" rel="self"/>
   <generator uri="https://ablog.readthedocs.org/" version="0.10.33.post1">ABlog</generator>
@@ -62,13 +62,13 @@
     <content type="html">&lt;div class="ablog-post-excerpt docutils container"&gt;
 &lt;p&gt;We received funding from the &lt;a class="reference external" href="https://survivalandflourishing.fund/sff-2024-recommendations"&gt;SFF Fairness Track&lt;/a&gt; to fund work
 developing a benchmark for fair data-driven decision making with LLMs.
-We will develop a benchmark for both data analytics style decision-making and training fair models on data. Then we will assess state of the art AI systems engaging inn thse tasks across various levels of AI agency.&lt;/p&gt;
+We will develop a benchmark for both data analytics style decision-making and training fair models on data. Then we will assess state of the art AI systems engaging in these tasks across various levels of AI agency.&lt;/p&gt;
 &lt;/div&gt;
 </content>
     <link href="https://ml4sts.com/news/2024-10-30-sff/"/>
     <summary>We received funding from the SFF Fairness Track to fund work
 developing a benchmark for fair data-driven decision making with LLMs.
-We will develop a benchmark for both data analytics style decision-making and training fair models on data. Then we will assess state of the art AI systems engaging inn thse tasks across various levels of AI agency.</summary>
+We will develop a benchmark for both data analytics style decision-making and training fair models on data. Then we will assess state of the art AI systems engaging in these tasks across various levels of AI agency.</summary>
     <published>2024-10-30T00:00:00+00:00</published>
   </entry>
 </feed>

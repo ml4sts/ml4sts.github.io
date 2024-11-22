@@ -50,6 +50,19 @@ In this project, we are using bias models to evalute the effectiveness of differ
 +++
 
 :::
+
+
+:::{grid-item-card}
+
+
+LLMs and Fair Data Driven Decision-making
+^^^
+
+We are buliding  a benchmark to evaluate benchmarks on making non-discriminatory decisions from data.  This will include evaluating direct decisions, assisting on fair ML tasks, and agentically training fair models. 
+
++++
+
+:::
 ::::
 
 

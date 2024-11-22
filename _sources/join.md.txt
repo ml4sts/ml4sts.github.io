@@ -19,7 +19,7 @@ Undergraduates will almost always spend at least one semester on one of these be
 
 :::{card} Robust ML evaluation Developer tools
 
-**building and maintaining Python packages that facilitate other research in the lab**
+**building and maintaining Python packages that facilitate other research in the lab including as AI agent tools**
 
 Example tasks:
 - add unit tests
@@ -78,7 +78,23 @@ Build skills in data science, front end, social impacts of computing and interdi
 Prereq (one of the following):
 - CSC/DSP310 (preferred)
 - other significant Python work and Plotly familiarity
+:::
 
+:::{card} Data Empowerment for Election workers
+
+**collaborate with Industrial Enginers to help election workers learn data science skills by designing a short workshop**
+
+Example Tasks:
+- clean example datasets for the lesson
+- examine candidate  data sets to help decide what examples to use in the lesson
+- design practice problems with example datasets
+- write explanations for necessary code structures
+- write and test setup instructions
+
+
+Prereq:
+- CSC/DSP310 or STA/DSP305
+- experience as a TA (preferred)
 :::
 
 :::{card} Documentation
