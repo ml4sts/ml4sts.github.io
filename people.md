@@ -36,24 +36,6 @@ PhD student working on task level fairness and fair feature selection
 
 
 
-:::{grid-item-card}
-
-Puja Ghosh
-
-^^^
-PhD Student working on task level fairness and bias modeling
-+++
-:::
-
-
-:::{grid-item-card}
-
-Brendan Rice
-
-^^^
-Undergraduate Researcher, Project Credit working on developer tools for robust ML
-+++
-:::
 
 
 :::{grid-item-card}
@@ -66,17 +48,6 @@ Undergraduate Comp Sci student interested in ML, Project Credit
 [{fab}`github` ](https://github.com/NoahV17)
 [{fab}`linkedin`](https://www.linkedin.com/in/noahvario/)
 :::
-
-
-:::{grid-item-card}
-
-Rohan Kelley
-
-^^^
-Undergraduate Researcher, Project Credit
-+++
-:::
-
 
 
 
@@ -117,6 +88,27 @@ Undergraduate Researcher, Project Credit, Comp Sci student interested in ML
 
 :::::{grid} 1 2 2 2
 :gutter: 2
+
+
+
+:::{grid-item-card}
+
+Brendan Rice
+
+^^^
+Undergraduate Researcher, Project Credit working on developer tools for robust ML
++++
+:::
+
+
+:::{grid-item-card}
+
+Rohan Kelley
+
+^^^
+Undergraduate Researcher, Project Credit
++++
+:::
 
 
 :::{grid-item-card}
