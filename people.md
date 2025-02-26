@@ -306,6 +306,17 @@ Undergraduate Researcher, Brown UTRA Award Recipient
 +++
 
 :::
+:::{grid-item-card}
+Ritta Neg Mfa
+
+^^^
+
+PhD student working on Benchmarking fair coding assistant to assess LLMs' performance across multiple dimensions, including bias mitigation and code quality.
++++
+
+[{fab}`github`](https://github.com/rittaneg86)
+[{fab}`linkedin`](https://www.linkedin.com/in/ritta-neg-mfa-a9a314307/)
+:::
 
 :::::
 
