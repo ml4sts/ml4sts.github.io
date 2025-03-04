@@ -34,26 +34,18 @@ PhD student working on task level fairness and fair feature selection
 [{fab}`github`](https://github.com/surbhir08)
 :::
 
-
-
 :::{grid-item-card}
-
-Puja Ghosh
+Ritta Neg Mfa
 
 ^^^
-PhD Student working on task level fairness and bias modeling
+
+PhD student working on Benchmarking fair coding assistant to assess LLMs' performance across multiple dimensions, including bias mitigation and code quality.
 +++
+
+[{fab}`github`](https://github.com/rittaneg86)
+[{fab}`linkedin`](https://www.linkedin.com/in/ritta-neg-mfa-a9a314307/)
 :::
 
-
-:::{grid-item-card}
-
-Brendan Rice
-
-^^^
-Undergraduate Researcher, Project Credit working on developer tools for robust ML
-+++
-:::
 
 
 :::{grid-item-card}
@@ -66,17 +58,6 @@ Undergraduate Comp Sci student interested in ML, Project Credit
 [{fab}`github` ](https://github.com/NoahV17)
 [{fab}`linkedin`](https://www.linkedin.com/in/noahvario/)
 :::
-
-
-:::{grid-item-card}
-
-Rohan Kelley
-
-^^^
-Undergraduate Researcher, Project Credit
-+++
-:::
-
 
 
 
@@ -117,6 +98,27 @@ Undergraduate Researcher, Project Credit, Comp Sci student interested in ML
 
 :::::{grid} 1 2 2 2
 :gutter: 2
+
+
+
+:::{grid-item-card}
+
+Brendan Rice
+
+^^^
+Undergraduate Researcher, Project Credit working on developer tools for robust ML
++++
+:::
+
+
+:::{grid-item-card}
+
+Rohan Kelley
+
+^^^
+Undergraduate Researcher, Project Credit
++++
+:::
 
 
 :::{grid-item-card}
@@ -314,6 +316,7 @@ Undergraduate Researcher, Brown UTRA Award Recipient
 +++
 
 :::
+
 
 :::::
 
