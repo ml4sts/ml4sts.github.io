@@ -81,6 +81,16 @@ Undergraduate Researcher, Project Credit, Comp Sci student interested in ML
 +++
 :::
 
+:::{grid-item-card}
+
+Siddharth Gupta
+
+^^^
+Student at Barrington High School, interested in ML
++++
+[{fab}`github` ](https://github.com/Windshield-Viper)
+:::
+
 
 :::{grid-item-card}
 :img-top:  _static/img/seansFace.jpg
