@@ -81,6 +81,15 @@ Undergraduate Researcher, Project Credit, Comp Sci student interested in ML
 +++
 :::
 
+:::{grid-item-card}
+
+Marcus Diaz
+
+^^^
+Undergraduate Researcher, Project Credit, Computer Science major interested in ML
++++
+:::
+
 
 :::{grid-item-card}
 :img-top:  _static/img/seansFace.jpg
