@@ -2,22 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://ml4sts.com</id>
   <title>  The Machine Learning for Socio-Technical Systems Lab at University of Rhode Island</title>
-  <updated>2025-03-04T22:05:40.495491+00:00</updated>
+  <updated>2025-03-06T23:02:19.458755+00:00</updated>
   <link href="https://ml4sts.com"/>
   <link href="https://ml4sts.com/news/atom.xml" rel="self"/>
   <generator uri="https://ablog.readthedocs.org/" version="0.10.33.post1">ABlog</generator>
-  <entry>
-    <id>https://ml4sts.com/news/2024-03-22-nsbe50/</id>
-    <title>Dr. Brown will present a workshop at NSBE 50</title>
-    <updated>2024-03-22T00:00:00+00:00</updated>
-    <content type="html">&lt;div class="ablog-post-excerpt docutils container"&gt;
-&lt;p&gt;The workshop will be a hands on workshop to build a profile website using github pages.&lt;/p&gt;
-&lt;/div&gt;
-</content>
-    <link href="https://ml4sts.com/news/2024-03-22-nsbe50/"/>
-    <summary>The workshop will be a hands on workshop to build a profile website using github pages.</summary>
-    <published>2024-03-22T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>https://ml4sts.com/news/2024-03-29-fireside/</id>
     <title>Dr Brown will participate in the AI lab Fireside chat series</title>
@@ -70,5 +58,17 @@ We will develop a benchmark for both data analytics style decision-making and tr
 developing a benchmark for fair data-driven decision making with LLMs.
 We will develop a benchmark for both data analytics style decision-making and training fair models on data. Then we will assess state of the art AI systems engaging in these tasks across various levels of AI agency.</summary>
     <published>2024-10-30T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://ml4sts.com/news/2025-03-05-nsbegold/</id>
+    <title>Dr. Brown will be at NSBE Gold</title>
+    <updated>2025-03-05T00:00:00+00:00</updated>
+    <content type="html">&lt;div class="ablog-post-excerpt docutils container"&gt;
+&lt;p&gt;She will teach a full day Python training as well as host an AI Mythbusting Workshop&lt;/p&gt;
+&lt;/div&gt;
+</content>
+    <link href="https://ml4sts.com/news/2025-03-05-nsbegold/"/>
+    <summary>She will teach a full day Python training as well as host an AI Mythbusting Workshop</summary>
+    <published>2025-03-05T00:00:00+00:00</published>
   </entry>
 </feed>
