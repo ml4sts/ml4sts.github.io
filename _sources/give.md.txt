@@ -1,4 +1,4 @@
-# Give
+# Support
 
 
 Support our research with a donation. Funds will be used to support research projects through paying students, 
