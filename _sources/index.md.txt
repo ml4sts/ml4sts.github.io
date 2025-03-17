@@ -20,6 +20,6 @@ people
 outreach
 publications
 code
-news
 join
+give
 ```
