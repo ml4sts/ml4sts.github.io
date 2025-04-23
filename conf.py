@@ -89,6 +89,7 @@ html_sidebars = {
     "projects": ["hello.html"],
     "people": ["hello.html"],
     "outreach": ["hello.html"],
+    "give": ["hello.html"],
     "news": ["hello.html", 'archives.html'],
     "news/**": ['postcard.html', 'recentposts.html', 'archives.html'],
     "blog": ['tagcloud.html', 'archives.html'],
