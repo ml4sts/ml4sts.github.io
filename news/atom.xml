@@ -2,23 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://ml4sts.com</id>
   <title>  The Machine Learning for Socio-Technical Systems Lab at University of Rhode Island</title>
-  <updated>2025-05-07T18:57:05.985089+00:00</updated>
+  <updated>2025-06-18T14:06:55.018480+00:00</updated>
   <link href="https://ml4sts.com"/>
   <link href="https://ml4sts.com/news/atom.xml" rel="self"/>
   <generator uri="https://ablog.readthedocs.org/" version="0.10.33.post1">ABlog</generator>
-  <entry>
-    <id>https://ml4sts.com/news/2024-03-29-fireside/</id>
-    <title>Dr Brown will participate in the AI lab Fireside chat series</title>
-    <updated>2024-03-29T00:00:00+00:00</updated>
-    <content type="html">&lt;div class="ablog-post-excerpt docutils container"&gt;
-&lt;p&gt;&lt;strong&gt;title&lt;/strong&gt; How to anticipate risks in AI-enhanced research&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;abstract&lt;/strong&gt; ML-powered AI is increasingly appearing in all areas of research. However, ML is still in many ways a research output, more of a prototype than a polished, reliable, product. Even commercially released systems, because they are software, can be released without the same rigorous testing that commercially available research equipment has been traditionally be subject to. In this talk, I will draw connections between the ML research process and potential risks in applied ML and use of commercial AI in research.&lt;/p&gt;
-&lt;/div&gt;
-</content>
-    <link href="https://ml4sts.com/news/2024-03-29-fireside/"/>
-    <summary>title How to anticipate risks in AI-enhanced researchabstract ML-powered AI is increasingly appearing in all areas of research. However, ML is still in many ways a research output, more of a prototype than a polished, reliable, product. Even commercially released systems, because they are software, can be released without the same rigorous testing that commercially available research equipment has been traditionally be subject to. In this talk, I will draw connections between the ML research process and potential risks in applied ML and use of commercial AI in research.</summary>
-    <published>2024-03-29T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>https://ml4sts.com/news/2024-08-23-nsbepdc/</id>
     <title>Dr. Brown is presenting at NSBE PDC</title>
@@ -70,5 +57,17 @@ We will develop a benchmark for both data analytics style decision-making and tr
     <link href="https://ml4sts.com/news/2025-03-05-nsbegold/"/>
     <summary>She will teach a full day Python training as well as host an AI Mythbusting Workshop</summary>
     <published>2025-03-05T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://ml4sts.com/news/2025-06-18-orca/</id>
+    <title>ORCA-CAP Funding for Open Humanities</title>
+    <updated>2025-06-18T00:00:00+00:00</updated>
+    <content type="html">&lt;div class="ablog-post-excerpt docutils container"&gt;
+&lt;p&gt;In Collaboration with &lt;a class="reference external" href="https://web.uri.edu/harrington/meet/madison-jones/"&gt;Madison Jones&lt;/a&gt; and &lt;a class="reference external" href="https://web.uri.edu/harrington/meet/jeremiah-dyehouse/"&gt;Jeremiah Dyehouse&lt;/a&gt; we recieved an award from the &lt;a class="reference external" href="https://www.orcaopen.org/work/cap"&gt;Open Research Community Accelerator Catalytic Awards Program&lt;/a&gt; to build a reusable open source curriculum and hold a workshop for humanties scholars on the basics of open source. Our goal is to help humanities scholars embrace digitial methods without being locked into expensive, corporate controlled platforms.&lt;/p&gt;
+&lt;/div&gt;
+</content>
+    <link href="https://ml4sts.com/news/2025-06-18-orca/"/>
+    <summary>In Collaboration with Madison Jones and Jeremiah Dyehouse we recieved an award from the Open Research Community Accelerator Catalytic Awards Program to build a reusable open source curriculum and hold a workshop for humanties scholars on the basics of open source. Our goal is to help humanities scholars embrace digitial methods without being locked into expensive, corporate controlled platforms.</summary>
+    <published>2025-06-18T00:00:00+00:00</published>
   </entry>
 </feed>
