@@ -124,7 +124,6 @@ Kadden Grant is a college Junior researching AI and ethics, exploring the societ
 [{fas}`user`](https://keg52.github.io)
 :::
 
-:::{grid-item-card}
 
 
 :::::
