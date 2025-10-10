@@ -17,7 +17,7 @@ Undergraduates will almost always spend at least one semester on one of these be
 
 ::::{card-carousel} 2
 
-:::{card} Robust ML evaluation Developer tools
+:::{card} Robust ML evaluation Developer tools and AI Agents
 
 **building and maintaining Python packages that facilitate other research in the lab including as AI agent tools**
 
@@ -26,13 +26,14 @@ Example tasks:
 - improve documentation
 - add new features to support libraries to make other research easier
 
-Build skills in software engineering, project management, and working with other developers. 
+Build skills in software engineering, project management, and working with other developers. A great opportunity to learn ML from a software perspective
 
 Prereq: 
 - CSC392/CSC311 or demonstrated proficiency in git, bash, and IDEs
 - *and* proficiency in Python
 
 :::
+
 :::{card} When do fair ML algorithms work? 
 
 **Empirical evaluation of the contexts where fair ML algorithms succeed and fail through intentionally designed biased data**
@@ -54,8 +55,8 @@ Prereq: CSC/DSP310
 **Robust evaluation of LLMs as decision-makers, assistants, and agents in data-rich contexts with respect to the fairness of the decision making.**
 
 Example tasks: 
-- implement functions to compute custom scores for LLMs on data sicence tasks
 - collect and manipulate datasets with fairness concerns
+- create personas for LLMs to try to make them do better/worse at fair data science
 - evaluate an LLM through an API
 
 Build skills in data science and machine learning
@@ -80,6 +81,19 @@ Prereq (one of the following):
 - other significant Python work and Plotly familiarity
 :::
 
+
+
+:::{card} Documentation
+
+A low code opportunity is to work on documentation for any of the code tools we develop in the lab. Reading code and understanding it is a good way to learn more, while contributing
+written *English* instead of in a programming language.
+
+:::
+
+::::
+
+
+<!---
 :::{card} Data Empowerment for Election workers
 
 **collaborate with Industrial Enginers to help election workers learn data science skills by designing a short workshop**
@@ -96,16 +110,7 @@ Prereq:
 - CSC/DSP310 or STA/DSP305
 - experience as a TA (preferred)
 :::
-
-:::{card} Documentation
-
-A low code opportunity is to work on documentation for any of the code tools we develop in the lab. Reading code and understanding it is a good way to learn more, while contributing
-written *English* instead of in a programming language.
-
-:::
-
-::::
-
+--->
 
 ## Current URI Graduate Students
 
@@ -130,7 +135,7 @@ Graduate students in our lab are in the URI Computer Science MS or PhD program. 
 
 ### Funding
 ```{important}
-I do not anticipate having RA funding for incoming students starting at any time in 2025 or 2026. 
+I am actively recruiting a PhD student to start in Fall 2026 with RA funding. 
 ```
 
 ### Messaging
