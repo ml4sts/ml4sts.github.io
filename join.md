@@ -116,7 +116,7 @@ Prereq:
 
 Ideally, you should take a graduate level course with Dr. Brown in your first year at URI.  If you are admitted without credit for a Machine Learning course, take CSC461 in your first fall.
 
-My current graduate course is [ML for science and society](https://ml4scisoc.github.io/about.html) see this page for information and to request a permission number. 
+My current graduate courses are [Model Evaluation and Explanation](https://evalexplainai.github.io/) (offered in odd springs) and Sociotechnical AI Safety (offered in even springs). 
 
 Please read the website to learn about the work and  [submit this form just for current URI students](https://forms.gle/u8JCvdRJaYLbc4To7). The form notifies Dr. Brown by e-mail and allows you to book a meeting as an interview.
 
@@ -124,25 +124,33 @@ New graduate students may start out working on one of the projects listed above 
 
 ## Prospective Graduate Students
 
+
+I deeply value research integrity and thoughtfulness in research. Using automation inappropriately in the process of searching for graduate school is inconsistent with demonstrating that you will conduct research with integrity as a member of the lab. Any students who send emails that seem inappropriately automated will not be considered for lab membership. 
+
 ```{tip}
-I will look for the lab name in your statment when I read the applications as a member of the graduate committee
+I will look for the lab name in your statement when I read the applications as a member of the graduate committee
 ```
 
 Graduate students in our lab are in the URI Computer Science MS or PhD program. If you apply to this program, I will see your application. To be considered to join the lab, mention the lab name and *why* you want to do research aligned with the lab's research goals in your personal statement.  
 
-
-URI CS Graduate Programs do not use GRE scores, **please do not send them to me**, I will not look at them if you send them via email.  
-
+### Funding
 ```{important}
 I am actively recruiting a PhD student to start in Fall 2026 with RA funding. 
 ```
 
-I receive many inquiries from prospective students and am unable to reply to all of them.  I generally do not set up meetings with prospective students until they are admitted and deciding to atten URI or not. If you request that, I am unlikely to reply. I primarily use these emails for extra information when reading graduate applications, to make your e-mail easy to find, use the subject, `Prospective ML4STS Lab member - <MS/PhD>` with the appropriate degree based on what you are applying to selected and send your e-mail to `brownsarahm+ml4sts@uri.edu`.  These emails can be favorable if you send something personal about why you want to join the lab, but **I cannot assess your application via email**.
+### Messaging
+I receive many inquiries from prospective students and am unable to reply to all of them. Some notes: 
+- I do not require prospective students to contact me prior to applying.
+- I will try to reply to emails that contain **specific questions** about the fit of a students research interests with the lab.
+- I will also reply to specific emails that are asking about competitive external or URI fellowship opportunities where I can serve as a reference. 
+- I primarily use these emails for extra information when reading graduate applications, to make your e-mail easy to find, use the subject, `Prospective ML4STS Lab member - <MS/PhD>` with the appropriate degree based on what you are applying to selected and send your e-mail to `brownsarahm+ml4sts@uri.edu`.  These emails can be favorable if you send something personal about why you want to join the lab, but **I cannot assess your application via email**.
+- URI CS Graduate Programs do not use GRE scores, **please do not send them to me**. If you email these to me, I will not read the rest of your message.  
 
-I will reply to emails that contain specific questions about the fit of a students research interests with the lab. I will also reply to specific emails that are asking about fellowship opportunities where I can serve as a reference. 
-
-I deeply value research integrity and thoughtfulness in research. Using automation inappropriately in the process of searching for graduate school is inconsistent with demonstrating that you will conduct research with integrity as a member of the lab. Any students who send emails that seem inappropriately automated will not be considered for lab membership. 
-
+### Meetings
+I will only meet with prospective students in the following conditions:
+- I have a funded position I am recruiting for, as indicated above
+- The Student is eligible for and applying to a competitive external fellowship (eg NSF GRFP) that requires support from a prospective advisor
+- The student has been admitted and is trying to decide to attend URI or not
 
 
 ## Other inquiries
