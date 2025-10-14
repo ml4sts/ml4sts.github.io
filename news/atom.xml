@@ -2,34 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://ml4sts.com</id>
   <title>  The Machine Learning for Socio-Technical Systems Lab at University of Rhode Island</title>
-  <updated>2025-10-10T19:25:00.222782+00:00</updated>
+  <updated>2025-10-14T18:04:21.216152+00:00</updated>
   <link href="https://ml4sts.com"/>
   <link href="https://ml4sts.com/news/atom.xml" rel="self"/>
   <generator uri="https://ablog.readthedocs.org/" version="0.10.33.post1">ABlog</generator>
-  <entry>
-    <id>https://ml4sts.com/news/2024-08-23-nsbepdc/</id>
-    <title>Dr. Brown is presenting at NSBE PDC</title>
-    <updated>2024-08-23T00:00:00+00:00</updated>
-    <content type="html">&lt;div class="ablog-post-excerpt docutils container"&gt;
-&lt;p&gt;NSBE’s Professional Development conference is a venue for working professionals to skill up. She is presenting the &lt;a class="reference external" href="https://ml4sts-outreach.github.io/profile/"&gt;building a portfolio website workshop&lt;/a&gt; by invitation&lt;/p&gt;
-&lt;/div&gt;
-</content>
-    <link href="https://ml4sts.com/news/2024-08-23-nsbepdc/"/>
-    <summary>NSBE’s Professional Development conference is a venue for working professionals to skill up. She is presenting the building a portfolio website workshop by invitation</summary>
-    <published>2024-08-23T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://ml4sts.com/news/2024-10-08-ddf/</id>
-    <title>Dr. Brown is speaking in the Digital Defense Fund fall seminar series</title>
-    <updated>2024-10-08T00:00:00+00:00</updated>
-    <content type="html">&lt;div class="ablog-post-excerpt docutils container"&gt;
-&lt;p&gt;She is co-leading a session on AI basics titled, “Unmasking AI: the Mysteries and Magic of Artificial Intelligence”.&lt;/p&gt;
-&lt;/div&gt;
-</content>
-    <link href="https://ml4sts.com/news/2024-10-08-ddf/"/>
-    <summary>She is co-leading a session on AI basics titled, “Unmasking AI: the Mysteries and Magic of Artificial Intelligence”.</summary>
-    <published>2024-10-08T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>https://ml4sts.com/news/2024-10-30-sff/</id>
     <title>Funding from the Survival and Flourishing Fund</title>
@@ -57,6 +33,31 @@ We will develop a benchmark for both data analytics style decision-making and tr
     <link href="https://ml4sts.com/news/2025-03-05-nsbegold/"/>
     <summary>She will teach a full day Python training as well as host an AI Mythbusting Workshop</summary>
     <published>2025-03-05T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://ml4sts.com/news/2025-06-09-career/</id>
+    <title>NSF CAREER Award!</title>
+    <updated>2025-06-09T00:00:00+00:00</updated>
+    <content type="html">&lt;div class="ablog-post-excerpt docutils container"&gt;
+&lt;p&gt;Dr. Brown recevied an NSF CAREER Award for her proposal titled, “CAREER: Realizing Sociotechnical Machine Learning through Modeling, Explanations, and Reflections.”&lt;/p&gt;
+&lt;/div&gt;
+</content>
+    <link href="https://ml4sts.com/news/2025-06-09-career/"/>
+    <summary>Dr. Brown recevied an NSF CAREER Award for her proposal titled, “CAREER: Realizing Sociotechnical Machine Learning through Modeling, Explanations, and Reflections.”</summary>
+    <published>2025-06-09T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://ml4sts.com/news/2025-06-02-summer/</id>
+    <title>null</title>
+    <updated>2025-06-09T00:00:00+00:00</updated>
+    <content type="html">&lt;div class="ablog-post-excerpt docutils container"&gt;
+&lt;p&gt;Document headings start at H2, not H1 [myst.header]&lt;/p&gt;
+&lt;p&gt;We’re excited to welcome our summer scholars who have joined the lab for the summer. They’ll be working on various projects related to machine learning for socio-technical systems.&lt;/p&gt;
+&lt;/div&gt;
+</content>
+    <link href="https://ml4sts.com/news/2025-06-02-summer/"/>
+    <summary>Document headings start at H2, not H1 [myst.header]We’re excited to welcome our summer scholars who have joined the lab for the summer. They’ll be working on various projects related to machine learning for socio-technical systems.</summary>
+    <published>2025-06-09T00:00:00+00:00</published>
   </entry>
   <entry>
     <id>https://ml4sts.com/news/2025-06-18-orca/</id>
