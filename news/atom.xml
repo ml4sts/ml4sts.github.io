@@ -2,26 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://ml4sts.com</id>
   <title>  The Machine Learning for Socio-Technical Systems Lab at University of Rhode Island</title>
-  <updated>2025-10-14T18:04:21.216152+00:00</updated>
+  <updated>2025-10-15T14:52:37.284397+00:00</updated>
   <link href="https://ml4sts.com"/>
   <link href="https://ml4sts.com/news/atom.xml" rel="self"/>
   <generator uri="https://ablog.readthedocs.org/" version="0.10.33.post1">ABlog</generator>
-  <entry>
-    <id>https://ml4sts.com/news/2024-10-30-sff/</id>
-    <title>Funding from the Survival and Flourishing Fund</title>
-    <updated>2024-10-30T00:00:00+00:00</updated>
-    <content type="html">&lt;div class="ablog-post-excerpt docutils container"&gt;
-&lt;p&gt;We received funding from the &lt;a class="reference external" href="https://survivalandflourishing.fund/sff-2024-recommendations"&gt;SFF Fairness Track&lt;/a&gt; to fund work
-developing a benchmark for fair data-driven decision making with LLMs.
-We will develop a benchmark for both data analytics style decision-making and training fair models on data. Then we will assess state of the art AI systems engaging in these tasks across various levels of AI agency.&lt;/p&gt;
-&lt;/div&gt;
-</content>
-    <link href="https://ml4sts.com/news/2024-10-30-sff/"/>
-    <summary>We received funding from the SFF Fairness Track to fund work
-developing a benchmark for fair data-driven decision making with LLMs.
-We will develop a benchmark for both data analytics style decision-making and training fair models on data. Then we will assess state of the art AI systems engaging in these tasks across various levels of AI agency.</summary>
-    <published>2024-10-30T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>https://ml4sts.com/news/2025-03-05-nsbegold/</id>
     <title>Dr. Brown will be at NSBE Gold</title>
@@ -70,5 +54,17 @@ We will develop a benchmark for both data analytics style decision-making and tr
     <link href="https://ml4sts.com/news/2025-06-18-orca/"/>
     <summary>In Collaboration with Madison Jones and Jeremiah Dyehouse we recieved an award from the Open Research Community Accelerator Catalytic Awards Program to build a reusable open source curriculum and hold a workshop for humanties scholars on the basics of open source. Our goal is to help humanities scholars embrace digitial methods without being locked into expensive, corporate controlled platforms.</summary>
     <published>2025-06-18T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://ml4sts.com/news/2025-09-10-surbhi-ABD/</id>
+    <title>Surbhi Rathore achieved ABD (All-But-Dissertation) status in her PhD program.</title>
+    <updated>2025-09-10T00:00:00+00:00</updated>
+    <content type="html">&lt;div class="ablog-post-excerpt docutils container"&gt;
+&lt;p&gt;Surbhi has successfully passed her dissertation proposal defense and achieved ABD (All-But-Dissertation) status in her PhD program.&lt;/p&gt;
+&lt;/div&gt;
+</content>
+    <link href="https://ml4sts.com/news/2025-09-10-surbhi-ABD/"/>
+    <summary>Surbhi has successfully passed her dissertation proposal defense and achieved ABD (All-But-Dissertation) status in her PhD program.</summary>
+    <published>2025-09-10T00:00:00+00:00</published>
   </entry>
 </feed>
