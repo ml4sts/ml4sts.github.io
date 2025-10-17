@@ -124,6 +124,16 @@ Kadden Grant is a college Junior researching AI and ethics, exploring the societ
 [{fas}`user`](https://keg52.github.io)
 :::
 
+:::{grid-item-card}
+Jeena Weber Langstaff
+
+^^^
+Jeena Weber Langstaff is an undergraduate majoring in Computer Science and Psychology. She is also passionate about AI and ethics, and human behavior. Jeena's long-term goals is to puruse a masters and PhD in AI and later on a PsyD in Clinical Psychology. 
+
++++
+[{fab}`github` ](https://github.com/JeenaWeberLangstaff/)
+[{fab}`linkedin`]([https://www.linkedin.com/in/kaddengrant/](https://www.linkedin.com/in/jeena-weber-langstaff/)
+:::
 
 
 :::::
