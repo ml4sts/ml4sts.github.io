@@ -133,7 +133,7 @@ Jeena Weber Langstaff is an undergraduate majoring in Computer Science and Psych
 +++
 [{fab}`github` ](https://github.com/JeenaWeberLangstaff/)
 [{fab}`linkedin`]([https://www.linkedin.com/in/kaddengrant/](https://www.linkedin.com/in/jeena-weber-langstaff/)
-
+:::
 
 
 :::::
