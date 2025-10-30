@@ -8,7 +8,7 @@ to support graduate students.
 
 
 
-```{button-link} https://securelb.imodules.com/s/1638/03-Foundation/cart21/form.aspx?sid=1638&gid=3&pgid=770&cid=2270&bledit=1&dids=1362
+```{button-link} https://www.givecampus.com/campaigns/63618/donations/new?designation=machinelearningforsociotechlab
 :color: primary
 Donate here!
 ```
