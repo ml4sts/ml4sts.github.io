@@ -6,6 +6,50 @@
 :::::{grid} 2
 :gutter: 2
 
+
+
+:::{grid-item-card}
+
+
+Realizing Sociotechnical Machine Learning through Modeling, Explanations, and Reflections.
+^^^
+
+This project will build on prior work in the lab to take a human in the loop type approach to understanding how to make *socially* safer *technical* components in sociotechncial systems (people+technology interacting). 
+
+We will look at how model-based approaches and explanation techniques help develop sociotechnical foresight, the ability of technologists to anticipate the social impacts of their work through examining their reflections on their proceses and their work. 
+
++++
+
+:::
+
+:::{grid-item-card}
+
+
+Model-Based Fairness Intervention Assessment
+^^^
+
+In this project, we are using bias models to evalute the effectiveness of different types of fair machine learning interventions. We hope to use the insights from this to provide data scientists with more actionable advice on how to select a fairness intervention. 
+
++++
+
+:::
+
+
+
+
+
+:::{grid-item-card}
+
+
+LLMs and Fair Data Driven Decision-making
+^^^
+
+We are buliding  a benchmark to evaluate benchmarks on making non-discriminatory decisions from data.  This will include evaluating direct decisions, assisting on fair ML tasks, and agentically training fair models. 
+
++++
+
+:::
+
 :::{grid-item-card}
 :img-top: _static/img/statistical_perceptions.png
 
@@ -39,30 +83,6 @@ This project will produce a Python library that anyone can use in the EDA step o
 :::
 
 
-:::{grid-item-card}
-
-
-Model-Based Fairness Intervention Assessment
-^^^
-
-In this project, we are using bias models to evalute the effectiveness of different types of fair machine learning interventions. We hope to use the insights from this to provide data scientists with more actionable advice on how to select a fairness intervention. 
-
-+++
-
-:::
-
-
-:::{grid-item-card}
-
-
-LLMs and Fair Data Driven Decision-making
-^^^
-
-We are buliding  a benchmark to evaluate benchmarks on making non-discriminatory decisions from data.  This will include evaluating direct decisions, assisting on fair ML tasks, and agentically training fair models. 
-
-+++
-
-:::
 ::::
 
 
