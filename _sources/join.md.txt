@@ -135,7 +135,7 @@ Graduate students in our lab are in the URI Computer Science MS or PhD program. 
 
 ### Funding
 ```{important}
-I am actively recruiting a PhD student to start in Fall 2026 with RA funding. 
+I do not expect to have any funded positions to offer for students starting in 2027 (January or September). 
 ```
 
 ### Messaging
