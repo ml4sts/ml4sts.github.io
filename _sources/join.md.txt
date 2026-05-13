@@ -4,7 +4,7 @@ To join the lab, you must be interested and motivated to taking a socio-technica
 
 ## Current URI Undergraduates
 
-I can supervise research for you to get experience to decide if you want to go to graduate school, for project credit (CSC499,491), and occaionally with funding.  
+I can supervise research for you to get experience to decide if you want to go to graduate school, for project credit (CSC499,491), and occasionally with funding.  
 
 If you are interested, please read the website to learn about the work and  [submit this form just for current URI students](https://forms.gle/u8JCvdRJaYLbc4To7). The form notifies me by e-mail and allows you to book a meeting as an interview.
 
